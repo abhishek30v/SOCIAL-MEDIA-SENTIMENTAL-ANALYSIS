@@ -10,43 +10,12 @@ public class Processor {
     private PreProcessor preProcessor;
     private Analyzer analyzer;
 
-    private @NotNull String processLine(String line) {
-        String[] lineArr = line.split(",");
-        if (lineArr.length != 4) {
-            return line;
-        }
-
-        for (int i = 1; i < lineArr.length - 1; i++) {
-            String text = lineArr[i];
-
-            if (!lineArr[i].startsWith("\"") || !lineArr[i].endsWith("\"")) {
-                lineArr[i] = "\"" + text + "\"";
-            }
-        }
-        StringBuilder processedLine = new StringBuilder();
-        for (int i = 0; i < lineArr.length; i++) {
-            processedLine.append(lineArr[i]);
-            if (i < lineArr.length - 1) {
-                processedLine.append(",");
-            }
-        }
-        return processedLine.toString();
+    public Processor() {
+        this.preProcessor = new PreProcessor();
+        this.analyzer = new Analyzer();
     }
 
-    public PreProcessor getPreProcessor() throws IOException {
-        File dataset = new File("src/main/resources/Tweets.csv");
-        try (BufferedReader reader = new BufferedReader(new FileReader(dataset));
-             BufferedWriter writer = new BufferedWriter(new FileWriter(dataset))) {
-            String line;
-            StringBuilder newProcessedData = new StringBuilder();
-
-            while ((line = reader.readLine()) != null) {
-                String processedLine = processLine(line);
-                newProcessedData.append(processedLine).append("\n");
-            }
-            writer.write(newProcessedData.toString());
-        }
-
+    public PreProcessor getPreProcessor() {
         return preProcessor;
     }
 
