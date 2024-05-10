@@ -12,7 +12,6 @@ public class Main {
             processor.getAnalyzer().analyze(formattedDataset);
         } catch (Exception e) {
             e.printStackTrace();
-            System.out.println();
         }
     }
 }
