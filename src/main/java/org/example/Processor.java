@@ -2,9 +2,6 @@ package org.example;
 
 import org.example.analysis.Analyzer;
 import org.example.preProcess.PreProcessor;
-import org.jetbrains.annotations.NotNull;
-
-import java.io.*;
 
 public class Processor {
     private PreProcessor preProcessor;
