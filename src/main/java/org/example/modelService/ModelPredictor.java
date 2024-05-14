@@ -5,18 +5,20 @@ import weka.core.Instances;
 import weka.core.SerializationHelper;
 
 public class ModelPredictor {
-    public void predictSentiment(Classifier classifier, Instances testData, Instances unlabeledData) throws Exception {
-        // Label the instances in the testing data
-        Instances labeled = new Instances(testData);
-        for (int i = 0; i < testData.numInstances(); i++) {
-            double clsLabel = classifier.classifyInstance(testData.instance(i));
-            labeled.instance(i).setClassValue(clsLabel);
-            System.out.println(clsLabel + " -> " + unlabeledData.classAttribute().value((int) clsLabel));
-        }
+    private Classifier classifier;
+
+    public ModelPredictor(String classifierPath) throws Exception {
+        this.classifier = (Classifier) SerializationHelper.read(classifierPath);
     }
 
-    public Classifier getClassifier(String modelPath) throws Exception {
-        Classifier classifier = (Classifier) SerializationHelper.read(modelPath);
-        return classifier;
+    public void predictSentiment(Instances unlabeledData) throws Exception {
+        // Label the instances in the testing data
+        Instances labeled = new Instances(unlabeledData);
+        for (int i = 0; i < unlabeledData.numInstances(); i++) {
+            double clsLabel = classifier.classifyInstance(unlabeledData.instance(i));
+            labeled.instance(i).setClassValue(clsLabel);
+
+            System.out.println(clsLabel + " -> " + unlabeledData.classAttribute().value((int) clsLabel));
+        }
     }
 }

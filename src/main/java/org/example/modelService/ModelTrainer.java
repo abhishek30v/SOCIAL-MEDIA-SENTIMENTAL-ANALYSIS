@@ -4,12 +4,14 @@ import weka.classifiers.Classifier;
 import weka.classifiers.evaluation.Evaluation;
 import weka.classifiers.functions.SMO;
 import weka.core.Instances;
+import weka.core.SerializationHelper;
 
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
 
 public class ModelTrainer {
     private Classifier classifier;
+
 
     public void trainModel(Instances trainData) throws Exception {
         classifier = new SMO();
@@ -21,7 +23,8 @@ public class ModelTrainer {
         classifier.buildClassifier(trainData);
     }
 
-    public void evaluateModel(Instances testData) throws Exception {
+    public void evaluateModel(String modelpath,Instances testData) throws Exception {
+        Classifier classifier = (Classifier) SerializationHelper.read(modelpath);
         System.out.println("==========================================================================");
         System.out.println("Evaluating the trained model using test data");
 
