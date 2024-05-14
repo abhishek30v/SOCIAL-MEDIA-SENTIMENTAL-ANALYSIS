@@ -7,7 +7,6 @@ import weka.core.Instances;
 
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
-import java.util.Random;
 
 public class ModelTrainer {
     private Classifier classifier;
@@ -36,6 +35,8 @@ public class ModelTrainer {
     public Classifier getClassifier() {
         return classifier;
     }
+
+
 
     public void saveModel(String modelFilePath) throws Exception {
         try (ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream(modelFilePath))) {
