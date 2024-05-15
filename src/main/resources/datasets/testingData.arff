@@ -1,0 +1,1500 @@
+@relation social_media_sentiment
+
+@attribute text string
+@attribute sentiment {positive, negative, neutral}
+
+@data
+"Tom are the MITO tour dvd`s still being made cos no where seem to be stealing them and i really want a copy", neutral
+"Sensation Ocean of White Portugal: absolutely amazing  Adoreiii!", positive
+"ugh, i dont feel like going to work today", negative
+"Hey  Why thankyou. How`s u? x", neutral
+"jb are so cute!  lmfao -giggles-", positive
+"happy birthday justin! have a lof of fun!!! God bless", positive
+"**** on the beach, cosmo, kamikaze, captain america, ahhh fun night. Still not over.", positive
+"converting the Armin Only - Imagine concert for my iPhone... fun fun", positive
+"_wx it looks like it did in Ohio after a tornado hit.", neutral
+"oh how the ladies will suffer now  LOL", neutral
+"'Never give up on something you can`t go a day without thinking about.' I like that quote.", positive
+"Yes I think it`s safe to say she is at the same popularity level today as always.", positive
+"Been there done that with the laundry!  you know it sucks, but it is so nice to of them to do it...just say thanks.", neutral
+"Happy mothers dayyy all mothers especially mine", positive
+"Iï¿½m really desappointed...", negative
+"i loooooove bank holidays", positive
+"pic as promised  http://twitpic.com/4wqy4", neutral
+"- Welcome to Minnesoooooooota. Free up some time this trip to catch up! Won`t be at Cliquot Club though; they closed", neutral
+"Watching videos on youtube with the bf.  Thinking about going to bed soon.", neutral
+"if i had a car", neutral
+"dont put behind the wheel lmfao today was fun", positive
+"G`night!", neutral
+"Out for an evening on the town with jeremy. Sad Carrie can`t come", negative
+"why canceled your performance on Letterman? i`m So sad because it is less an option for you.", negative
+"Im regretting the alcohol I consumed last night, MY HEAD", negative
+"just got a wii", neutral
+"left the inn  now im at school. dang its straight up dead here!! [<3Hannah]", negative
+"seen mi abueltia at the hospital... she`s doing good!", positive
+"aww-that`s my last one. Roo-Oop", neutral
+"trying to finish my ****-ignment.please god help me to finish it", negative
+"No plans tonight? .............", neutral
+"Dear God please let me wake up before 11:45 AM tomorrow lol Got plans  Tonight was lets pick on Hero night. grow up, get a job, etc. lolz", positive
+"At the doctor`s office, waiting for Dr. Sufka to see me. Tired of being sick  hope everyone else is having better Friday than me.", negative
+"_carter Gotta make the video public, dear. LOL ...can`t see it.", neutral
+"ur there when I`m not  lol", neutral
+"i hate the biatches of this world", negative
+"http://twitpic.com/4jcjj - Boagsie actually is still this small lol - him at 4 years old", neutral
+"looks like yet another beautiful day in London", positive
+"Drew`s new songs make me cry.  I miss Thomas already!", negative
+"****... It`s 2am and I`m wide awake", negative
+"just pre-ordered your new album `Off The Deep End`. Been listening to `Permanent Heart` on repeat since.", neutral
+"- i sure hope so  it was worth it for me too  loveu.", positive
+"Instead of telling God how big my problems are, I like telling my problems how big God is!  http://bit.ly/5ofzj", neutral
+"I want to party down!", neutral
+"Hahahaha! I didn`t know it said that, sheeeeittt! I don`t get why I can`t have a picture... bwaaaahhh", negative
+"....ok, sOooooooooo I DID that!! i`ve got u in the palm of my hand", neutral
+"beer from japan.  google it", neutral
+"Calling all mothers, calling all mothers...get your butts to bed - the kids`ll be here tomorrow", neutral
+"nope  don`t think I will. Thnx for asking lol I will be fine", positive
+"thanku  cooking is simple but the law is- u hve to have fun while u make it", positive
+"Another night of not sleeping", neutral
+"Walls of Jericho please come to WORCESTER asap! Candace pleeaassee! Why did Flee the Seen call it quits? whyyy?", neutral
+"Happy Mother`s Day, Moms!!! You are wonderful!! Have a great day", positive
+"AHHHHHHH!!!!! its my 16th birthday  And i cant belive i found out im seeing yous tonight  Best present everr!!! <333333333", negative
+"ohi i would marry Travis Pastrana in a second... hes not that attractive, hes just the sweetest thing  and what he does is attractive ;)ha", neutral
+"Wish I was in Chicago.", positive
+"Yum...wish we could be there today. I have a cold and don`t want to infect others...so we will miss our Friday session.", neutral
+"Heading of to the theatre! Having a show tonight, I`m so exited!", positive
+"Good morning World! Happy Star Wars Day! May the 4th be with you!", positive
+"Good plan, Peg --plus I like the sound of 'Money Monday'", positive
+"I also believe in some things are meant to happen.", neutral
+"just got home  but about to leave again", neutral
+"Ouch. Better get used to it. I think 22 to 25 are prime marriage years.", negative
+"iProcrastinate: This is by far my #1 character flaw. Gotta session at 11 and I don`t want to emerge from my covers.", neutral
+"hahaha that made me laugh", positive
+"there are three broody ones atm, I have a china eggs under them to keep them happy ish", positive
+"my music http://www.myspace.com/janedurkin", neutral
+"http://twitpic.com/4qfl3 - haha^^ I love it", positive
+"forgot to answer your kindle question yesterday. honestly, haven`t used it much. have two paperback books i want 2 read first.", negative
+"I`ll try..blah! Thanks  what are u up to today?", neutral
+"is watching D.O.A", neutral
+"(sigh) guess we`re not gonna meet up today.", negative
+"Baq to sleep i go  no the headach starts , if its not 1 its da other", negative
+"#wci hashtag simply isn`t dying out anytime soon, is it.", negative
+"I dont want to be ugly anymore", negative
+"think you should catch up on your sleep befor you go back to uni haha  goodnight<3", positive
+"Im glad i can make sumone smile", positive
+"Today isn`t going the way I planned.  Early lunchbreak & I may not be back til Mon. Weekend gonna be fun with friends, tho.", positive
+"Zeb has napped for 6 hours already today, and is asleep again... he must be growing fast", positive
+"I need a bigger mp3 player... even if it pains me to say it", negative
+"SNL after party", neutral
+"not sure i can make it", neutral
+"I`m afraid your comments on MP`s expenses were hopelessly out of touch with the average person average salary. V.insensitive", negative
+"? MADAYA KA CHRISTIAN. BLEH!!! I HATE U  http://plurk.com/p/wy2yg", negative
+"ooo how i love a bank holiday  x", positive
+"**** night. want john  where is he?", negative
+"This is dedicated to all those moms out there - Happy Mother`s Day  ? http://blip.fm/~5z2g9", positive
+"Bout 2 Miss Mah Lakers Play 2day...  This Orange Box Is **** Up The Rotation!.. Mah Real LA Fam.. Keep Me Posted!.. I LOVE HATERS 2!!", neutral
+"the play`s over, it was really good", positive
+"OUCH!!!!!!!!!!!!!!!.........that really hurt!!!", negative
+"at work!! Agh I really need to go with you  what days do you go so that I can add it to my schedule!", positive
+"[H]ouse starts on Sunday and I`m sad as I can`t afford Sky,", negative
+"is thinking WOW I survived Freshman year...Mission Accomplished...Now Sophomore year", positive
+"If my phone dies I will die too!", negative
+"will miss jay leno ..", negative
+"I think I`ve heard of that song. I`ll listen to it tomorrow.", neutral
+"We`ll be moving from a strength to a hypertrophy phase for chest, back, shoulders and arms for the next few weeks. Legs will stay behind", neutral
+"happy mothers day to all..im gonna help mine right now.she deserves it..you guys should too..", positive
+"I`ve got to catch the bus to work", neutral
+"have to put my dog down tomorrow.", neutral
+"Today was not an inspirational photography day  #photography -  http://twurl.nl/jnizbw", negative
+"YES!! I made the sign when i noticed it missing on Sunday! So far, no luck... It`s now Unlucky Japanese Cat...", negative
+"I know!!  effing embarrassing! Eff our lives", negative
+"Bar exam madness:  topic for today is torts", neutral
+"Just got out the shower, Sitting on my towel  I Hate TwitterBerry I Can`t Reply To Tweets", negative
+"more seo voodoo  Google has your cache. NOARCHIVE only hides it from users.", neutral
+"#BGT Quite an awkward moment, poor girl  I hope she doesn`t loose it again.", neutral
+"At work again, when the weather is beautifullll", neutral
+"good morninï¿½everybody  happy mothers-day to every mom", positive
+"My mom has annoyed the living **** outta me, so now we`re on AOL Radio, looking for Brooks & Dunn.", negative
+"Flat is sparkling clean, now that`s team work  on way to pick up food for 6!", positive
+"This is what I have to give a 7 day old baby  poor thing  http://yfrog.com/6pwwlj", negative
+"resistance was futile! Needed pretties to knit with", negative
+"i need to see ...now! someone buy me a plane ticket, please?", neutral
+"You guys can make it through!", neutral
+"awww thanks Jon! My 9yr old told me I was to sleep in, while they all clean the house.. best mom`s day present ever!", positive
+"just got home from Tillie`s dance recital. lol, it was spectacular!", positive
+"tut tut. Isn`t charging just fun. Thr new palm pre charging platform looks nifty tho.", positive
+"Going to work.  Could use some happy pills", positive
+"Jacqueline Wilson day on CBBC", neutral
+"Iï¿½m good! You coming on just as Iï¿½m off to drive home...", neutral
+"I know!! our cats could be family  mikesh is so cute!!", positive
+"don`t you hate it when you finish all your work and there`s still 1.25 hours left of work time", negative
+"Ouch! Sunburn`s bad! Hope it`s not to sore on your bedding, that`s always the problem.", negative
+"sad day... told my students this is my last year here... a lot of crying since..", negative
+"m still watchin Boston Legal tho it cracks me up 2, scrubs earlier was good  i guess i just like a laugh!!!", positive
+"My logic to getting a short prom dress? Last year it was so freaking hot I was dying... Look at the weather...  hahah just my luck", neutral
+"jen! we havent talked in like 3 days!", negative
+"you givein lady ga ga arun for her money in that get up hee hee love it", positive
+"that plain sux. kinda like cheers goin off the air.", neutral
+"Today is just not my day. I can`t seem to feel any better. If i dont eat, im hungry. If i do eat, i feel like im gonna be sick. Blah", negative
+"i need sweets, drank my cyderrrrrrrrr", neutral
+"Out if class!! Yow party + four hour lecture don`t mix attal!! I had to drink 3 red bulls & I`m still sleepy .,,,,smh! Alrite bedtime", neutral
+"yea. I was off today luv. I shudve told u.   anything exciting happen yet. And I saw u last night", positive
+"pmg im very upset no just relasie hugh laurie isnt on  **** ohh", negative
+"it does but the screen is dark - so when i click it, i hang up on whoever im talking to", neutral
+"I want it NOW..  finally found what I wanted ..", positive
+"Has finally taken a shower after much distraction from twitter and the bubble wrap off to read  and drink a smoothie", neutral
+"Heehee, how did you know who I was talking about?", neutral
+"_Zol I would like to make a comment about the password but I can`t on this medium", neutral
+"editing something in photoshoot  NILEY", neutral
+"Yogulicious? another sour sally competitor", neutral
+"yeah I was like oh oh oh yeah that`s it but then she said no  lol bummer", neutral
+"they did,", neutral
+"Good luck with the footage - none of the stations are breaking in live with it", positive
+"i know!! No money for pedicures!!", negative
+"_Star95 oh so you know how I feel then  **** representative for bank of america tried to make it sound like I did it. What a b ...", negative
+"really?  wooooo! I wish i could go to indonesia! Lol. Hopefully next summer.", positive
+"well just remember that tmrw is another day and hopefully won`t be as craptastic. sorry girrrrl", neutral
+"I missed you yesterday, Lacey.    We get to go to granulation tonight, though.", negative
+"assumes it wasnt so taboo to start an email with 'LOL' considering that the reply it got started with 'ROFL. PWN3D.' I love the internet!", positive
+"It means 'luv ya' in Zulu/Xhosa. Probably spelt it wrong lol. Can`t b creative 2day ...tired  so translated", neutral
+"i got too do course work   i hate it it is hard this one", negative
+"working today.  Can`t find my key so I had to borrow Miranda`s.", neutral
+"With My Boy Still  He`s everything to me", neutral
+"..people you love.... wait i am not there", positive
+"Awwwww!!!! And the gorgeous photo from California!!! You two make me melt!!!", positive
+"lol, Thanks for the morning Chuckle   Not sure if you follow me? Please check..", positive
+"Happy Mother`s Day Mommies", positive
+"Went to see 'UP'. It was a really good movie that pulls at the heart strings  i highly recommend it", positive
+"awww  omg garbo fake playing during one of the songs!!! haha", negative
+"Perfect! Thank you.  <3<3", positive
+"BYEEEEE!!!", neutral
+"dear michael sorce, you crack me up! sincerely, me", neutral
+"i hope you feel better", positive
+"well us Brits have to wait a few more days for it!  I thought it was all gonna released at once! I guess it`s worth the wait!", neutral
+"Yah, they have footlong sausage too mah. But Halal place..piggy sausages are bigger", neutral
+"Getting ready for an early night tweeps!   Have a great one every 1", positive
+"I could act in most Buffy eps  I have seen them so many times, but s1 was shaky (apart from eps 1,2,6,7 & 12)", neutral
+"great show today", positive
+"wants to go to walmart. but won`t go alone", neutral
+"'Ooh-ooh... it`s SHINY'. An dmore awe-tastic quotes from THE BEST ANIMATED MOVIE EVER coming up", positive
+"back home early for once  - wow this thing is getting addictive..................**** u phil XD", positive
+"****. My friend`s in such a state and I don`t know how to help him. Nothing I say seems to be helping and I wish I knew what to say", negative
+"my mobile phone refuses to charge!!  either the battery is broken or the chargerrr ( booooo", negative
+"aha, so that`s you.  I`ve been meaning to take a look. Looks cool. If you could just get a pool in there", positive
+"Hi Selena i made this team to support you in Greece and Cyprus", positive
+"i`m with you in this.  i`ve always have prob prioritizing myself ahead of him.", neutral
+"_**** :O really  well if u want, we can go 2gether next yr?", neutral
+"Maybe you have, my memory sucks.", negative
+"Grey`s `Sweet Surrender`  http://tinyurl.com/d5mjyj", neutral
+"currently working on the SDP`s Prototype.... so much to do...", neutral
+"Hi tweete, surprised to see everyone still up...maybe it`s the full moon", positive
+"Hope you feel better soon and check out my cool backround on my profile", positive
+"Hey, im chillin right now, gettin ready for school   Mohawk Kidd", positive
+"i feel extra-nauseous all of a sudden, like my stomach wasn`t ready to resume peristalsis after the events of two nights prior", negative
+"youre not going, are you   ?", neutral
+"I`m gonna miss them so much  I`m crying right now... :/", negative
+"do u hav a garden? bunny probs r decidedly uncool.   thanks 4d link!", neutral
+"totally agree, but she always seems to be henpecking John, even before the cheating thing", neutral
+"Love is an air-conditioner on a hot day...a heater on a cold day...and a warm body in bed any day  -  yep, me again", positive
+"and I have a gentleman`s agreement: Whoever wins the first match (or is it best of three?) pays for the other person`s copy.", neutral
+"is thinking so much and i`m at work", neutral
+"What was the compiment? I`m glad you`re having a good time.", positive
+"It turns out I`m really, like, sixty years old, guys. You were right!!!!!  I`m off to seek my future a little later than planned!", neutral
+"To make it worse, its my friends party tonight, and I`m stuck here. I haven`t seen her for months", negative
+"watching shark boy and lava girl! on disney channel. hanging out with sarah jane, micah, & rachel", neutral
+"my head is hurting..", negative
+"I know!!!! He didn`t ask me", neutral
+"Photovia secondstar05) i dreamt i was doing spells from harry potter yesterday night lol  i loved it. http://tumblr.com/xyt1qynya", positive
+"Oops that would be #edaust09", negative
+"Crawling into bed super happy that the Penguins won tonight", positive
+"really ill atm", neutral
+"my party is wiped out they be all dead and stuff", negative
+"its about to storm..soo much 4 goin out  ..ill just play on the net for awhile", neutral
+"I think I should... But with who? Hmmmm. Maybe a friend in ALASKA", neutral
+"Ah GDit! Ranger game this afternoon", neutral
+"ahh that would rock", neutral
+"is enough time!! (if i get into VIP!) but i know that doesn`t make up for it  at least they`ll have each other!", neutral
+"Hi! Im Barb frm IA. New to tweetin. Enjoy reading ur tweets. U seem like a wonderful person..I KNOW ur a wonderful actress", positive
+"Hey girl!  Yeah, my allergies kick in at the most random times. Hmph.", negative
+"um... thats my favorite beer!! why must you torture me so when I can`t make it down there!!", neutral
+"No, trying to reason with it. It didn`t listen", negative
+"I will, n btw happy mothers day sissy", positive
+"Have been rolling on the bed for the past 2 hours ... Still unable to sleep", neutral
+"As much as we would love that, it is hard to make ends meet up here ... with the job situations and all...", neutral
+"June gloom seems to have arrived early", neutral
+"I work in one hour", neutral
+"cuss u siad u weren`t having it...lol", neutral
+"... thanks everybody for your wonderful feedback re my Happiletter", positive
+"You are welcome.", positive
+"http://twitpic.com/4jkvh - I wasn`t bored really..  my redd converse. I love converse.", positive
+"Very very interesting night in Defiance to say the least... but hey, I got `Guys and Dolls` for free!", positive
+"_Rocks Just spurted Fanta out of my mouth laughing at that!", neutral
+"hope you have a great day tomorrow!!  happy mothers day!  let us know what you did", positive
+"Don`t tease me! I`m in desperate need of an adjustment.", negative
+"OHH  yeah i sometimes forget  your in the other but cheek ok america", neutral
+"well, the customer is always right (at least that`s what they tell me)", neutral
+"sore head..hope my girls ok", neutral
+"Alas, we can`t broadcast the lunches as we have no bandwidth in those rooms", negative
+"Back at home,11 hours till work", neutral
+"That may be, I still don`t like hearing his name so much.   #blackhawks #canucks", negative
+"i got talent too  u nvr hear me sing or dance them does call me Mini Breezy", neutral
+"Bah I don`t think `s FB fan page will get to 7500", negative
+"Last night was fun w the lightening and thunder  Today will be in the 90s", positive
+"Reading, cryin, reading, laughin...  Enjoying the ride while being enlightened and inspired by letters to a young sister!!  Thx Hill.", positive
+"Ahh man, and im off NEXT weekend", neutral
+"Apperently ea knows my copy of the sims 3 is not legit and is upset", negative
+"Thanks!  Your name strikes me every time I see it, as a friend of mine uses belofsouthie as her email", positive
+"_ thats coz we love you", positive
+"Here`s getting cold.. And I got my coffee break 2 minutes ago. Enjoy your drink", positive
+"Finally out of school for today! HAD TO SIT IN LIBRARY FOR A LONG TIME", negative
+"at home. have very sore feet. and am sad because the sale of my grandas house just went through. miss you", negative
+"are you are a RIOT!!", negative
+"ooohhh imma need you to get on that asap love you", positive
+"i know... I don`t want to be left in our home by myself during the weekend...", negative
+"Gonna get my ticket to Las Vegas today. Gotta check my milage. Can`t wait till August", neutral
+"Grrr. We don`t finish until July 3rd.", negative
+"I Love This Song lol, You`re amazing Steph , xoxo", positive
+"hey thanks mate your cool coz you watched it...", positive
+"i messed up my back/hip. it hurts so bad", negative
+"My arms hurt", negative
+"oh ok  good ... now i will jump for joy! M, you just made my day", positive
+"The moon is sooooo pretty", positive
+"I have too much homework to do today", negative
+"workin at la bootay... wheres the warm weather at???", neutral
+"depressed; my best friends pissed @ me", negative
+"yes........there are many cool things americans cannot watch", positive
+"._.; Thanxxx ! Now with that message I just wanna leave !! )= ! BYE !", positive
+"so thats how u spent ur weekend so far?", neutral
+"done with the fkn exam! n just bought the mothers day gift, finally... tada! the new prada fragrance  going to meet up mum n fam now : ...", neutral
+"school is so pointlesss. seriously though. 7 days of school left and all we do is watch movies and make powerpoints. let me leaveeee", negative
+"Have a good day", positive
+"Caan`t Iht Be Earlier? ICant Wait That Long.  Ahar. (:", negative
+"happy mother`s day everyone", positive
+"weekend along with the summer is here so why do I feel sad?", negative
+"just going to cook some lamb chops for lunch - I always end up coking just before pay day and amaze myself at how much I can cook", positive
+"getting off for the night, in such a great mood!", positive
+"From the champion team in the defunct MBA, Cebu Gems!", neutral
+"Hate this song  ? http://blip.fm/~5jg6f", neutral
+"ooo enjoy  and thanks for looking out for ours", positive
+"partied w/  @_SML, elitecamp, rock steady crew + the ladies (wow), and of course crazy legs - holla! lmao - sober. totally sober", neutral
+"Snap. Breaking out again", negative
+"I buy the team Zotz and they decide to roast me.", negative
+"hey  sending some Florida sunshine your way  Supertramp ï¿½ It`s Raining Again ï¿½  you m... ? http://blip.fm/~5jucn", neutral
+"- arrggh kids that won`t settle....need some Kava for Liam, that`ll sort `em...", neutral
+"_ it just upsets me , becasue like 6 years we have loved them .. and then this happens  imm really uset now x", neutral
+"honestly, why did the folks at Microsoft do MS Word 2007 to me?  I can`t believe I just spent 10 minutes finding auto correct options", neutral
+"_dazzles Well tonight would be a good time to watch.", positive
+"I`ve listed lots of new beads on eBay!", neutral
+"bath time", neutral
+"fuckkk i need sleepppppppp lol, happy mothers day mummy", neutral
+"Good movie.", positive
+"ah! NFG were super amazing! Jordan is `pretty legit`!! Can`t stay longer 2 meet everyone cuz we hv 3 hour drive home!", positive
+"still shopping and looking for shoes now", neutral
+"Dump your worries in the Stress Fire. Fun and profoundly freeing  http://budurl.com/c765", positive
+"A central lesson of history is that States are parasites which always expand until they destroy their host population. - Stefan Molyneux", negative
+"whaatttaatttt! she is a good cook and really creative, silly sierra", positive
+"i didnt get a hug today", neutral
+"finally gone!!!", positive
+"Took yesterday off & treated myself to an outfit & shoes, I have not treated myself in a while, my mothers day gift to me", positive
+"lucky girl!!! I work all day tomorrow! and maybe even Monday!!", positive
+"RIP Michael", negative
+"_KONG Record Grand Prix to skip through later, watch Man U game, Radio 1 .... well sport comes first", neutral
+"Dont worry man. You`ll see me just as much this week as you did last week.", positive
+": i miss you", negative
+"mama the boys gon be sweating her hard in Pre K  lol muah", neutral
+"SICK again", negative
+"wishing I were somewhere else besides here!!  Don`t worry this won`t dampen my day and neither will the rain", positive
+"Aniya666 yours wasn`t there", neutral
+"_21Thanks, I`ll keep working on her    lol good idea!", positive
+"Season 2 of The Wire, done! Kinda weak compared to the first season but I expected that... Still good though  Season 3 here I come!", positive
+"_rashid aww how cute  I like that song a lot", positive
+"Haha! Night man, and no, but Im sure I`ll meet her again in my lifetime, in fact I will...no doubt about it.", neutral
+"I totally forgot thats its friday till I read `s tweet. Ha. I feel dumb  *Take A Breath*", negative
+"The article on language groups in spaceports looks really cool, but i can`t open the site from that link.", neutral
+"Teehee..I know it too!", neutral
+"Not a happy camper  not having a good day at all...", negative
+"how`s the translation going?", neutral
+"New pic.... Twitter is finally letting me change my pic.  For those that missed it, Fannish Inquisition is now  please follow", neutral
+"Ok. Night sweet people  I`ll look for ya tomorrow", neutral
+"Cuba trip booked", neutral
+"check out the Conchords `Business Time`", neutral
+"Ashlie, thank you.  You made me feel a little better.", positive
+"oh darn i`m not in london", negative
+"Nah, they don`t. All my Twiter followers are fabulous.", positive
+"strange, that is exactly the chapter god laid on my heart to read in The Message yeaterday morning...He works in mysterious ways", neutral
+"feels very, very rough!", negative
+"having a great mothers day", positive
+"thanks for adding, no befriending, no, uh oh never mind, Thanks!", positive
+"yep,raced round it in cars and bikes,its only 40mins away,dont av much motorsport there now,its more planes n choppers now", neutral
+"hello nikki! i just ended my exams 2 hours ago!  how abt u?", neutral
+"Supernatural was mega good  Now I`m off to bed, urgh long day of school tomorrow x", neutral
+"its like a little adventure, only Im kinda worried about her, and I cant take the bus to where she is cos my oyster is broken", negative
+"Still at work.", neutral
+"Finally home  Gonna hit the hay n sleep till noon lol", positive
+"add me up: http://profiles.friendster.com/americanidolislove  friendster.", positive
+"You want ittt, you got ittt!", positive
+"haha! thanks, Tiff   it went well, but they WORE ME OUT!!! lol. im too old for this ;)", neutral
+"_fann coming up! Sowwy!", negative
+"well, I took it in early `00, graduated in `01. we were the final stage guinea pigs  it seriously is a waste of time.", negative
+"http://twitpic.com/4jcfg - About to cycle within this quarry on Shipley glen near Baildon moor before heading back through the woods", neutral
+"dude i am so sorry!!!!! I never got that number for you my fail  i just remembered", negative
+"Argh, I can`t avoid spelling bee spoilers anywhere! Now I know the winning speller and word before having actually watched the bee.", neutral
+"is exhausted from a great weekend, and is looking forward to this week", neutral
+"I like all the songs  I can`t say just one guys! love ya", positive
+"Disappointment really sucks!  I`m getting used to it.", negative
+"Can not afford the DR this year. I just can`t pull it off this time.", neutral
+"having a F**Kin` great day over there Graham isn`****", positive
+"i think the vog is making me sicker than i think. feeling slightly achy", negative
+"Just got back from the grocery store. Now I`m starving and can`t find anything to eat!", negative
+"has an exam at 10am - I slept about 3 hours last night", neutral
+"that sounds great right about now. It`s ridiculously hot in my house", neutral
+"Healthy Wishes. I may just start saying that.", positive
+"Iï¿½m JBobsessed  xD I miss them soooooo much!  They should have a live web cast on bookface ?  EVERY thursday xD", negative
+", Whered you end up going? I stayed in & watched SNL, one of the funnier shows theyve done this season.", positive
+"I am totally knackered and back in the meeting", negative
+"I need to cancel my appt for 1 have to be home from1-5 for washing machine repair man can I do on the am? So sorry", negative
+"God the weather in London is ammmmazing! Yet I`m on a train half the day", positive
+"I only ever seem to listen to Dirty these days. Most of our CD`s are still at Greg`s parents", neutral
+"I always choose to be a good guy, even if I know its only a game, i feel a bit bad doing evil things", neutral
+"its friday & every1 has plans but me..my mom is laser tagging w/ friends(haha)My brother is out..my sister and dad r working me-bf=alone", neutral
+"OMJ JUSt qOt HOME fROM tHAt PARty! it`S 2:OO a.m! i`M MAN tiRED! GOODNiqHt AND HAPPY MOtHER`S DAY 2 ALL!!! tAkE CARE & GOD BlESS!", neutral
+"have your own style. it just might work.", positive
+"...OOOPS AGAIN, the reply button is the RIGHT of the msg...now I`ll stop spamming", negative
+"Changing Guitar strings.. Getting Ready To Perform `THE CLIMB` at my cousins birthdayy", neutral
+"_ yeah", neutral
+"If I loved this any more I`d streak thru the hood damnit ! I`m pumped", neutral
+"Is still stuck in the office working!", negative
+"by the way, it`s INconvenient...", negative
+"@_hayles yer there must be-not sure tho-caught it off my brother but got it worse", negative
+"_ - hey there.    How was your day?", neutral
+"Getting ready for our annual old boys hockey competition  let`s bring down the students!", neutral
+"'arrest her' or, anything ending in -est that can be done to her.", negative
+"Thanks for tweeting a very useful set of refs - I`m in the middle of adding them to a chapter I`m editing", positive
+"Very nice!  Bea and I are so bummed we can`t make it   We should try and get together in the near future.", positive
+"Hello there! Thankyou. I always seem to make a difference in  someone`s life everyday.", positive
+"I want to wish all the Mommy`s a happy mothers day!", positive
+"Thanks for the reminder Tony", positive
+"just clicked on your bio. You`re in Cantazaro!? Have been to Italy several times. But never Calabria!", neutral
+"gahh!! i`m so tired right now.", negative
+"_ashley OH REALLY?!", neutral
+"_d ...I`m so happy for you guys! COngratulations!", positive
+"heyyy girl.. havent tweeted u all week. hope all is well with you", positive
+"_Marls Nah I got bare work to do, 3 weeks left and I`m bare behind", negative
+"My wand? It`s a black hawthorn wand with a core of kraken heartstrings.  You?", neutral
+"Worried about Bry, he has bronchitis and a sinus infection   Poor baby.", negative
+"Nofair! My BK only had Uhura and Nero left.", negative
+"lay by the pool and take a nap. my agenda for the day", neutral
+"Yeah. Me too. Will lookout on your tweets too. Happy Tweeting", positive
+"ready for a day full of His presence  i`m expecting the best!", positive
+"good catch!  Thanks a bunch- have to put up a new widget.", positive
+"just got home from dinner and am really really full. my mom said my dad bought me a sony a200k? holyyyyyyy", positive
+"Having first beer in over 8 days what has happened to me and Im only having it cause Miss 8 wanted to get me one for mothers day.", negative
+"... much more injustice than we can imagine now. It will get worse before it gets better, I am afraid. No doubt here. Sorry", negative
+"That is really sad", negative
+"http://twitpic.com/3x3wq - impossible to know them closely", neutral
+"SS & i r @ the devon horse show. gettin` mostly rained out. lots of events have ben cancelled incl the coaches", neutral
+"IIII know!!! and mean", positive
+"feels like spammers season .....is called summer season", neutral
+"making margaritas and about to watch Milk. Good times", positive
+"Ugh! I have to beat this stupid song to get to the next  rude!", negative
+"now cassidy is butcking that i am **** lol cant ever win", neutral
+"- We drank ours away, May Day Bank Holiday today", neutral
+"feeling nice... got a big **** smile on my face for no reason   take my **** to sleep right? lol", positive
+"iPhone just fell", negative
+"Hav fun at heav y Metal happy hour you guys! In the future  accadentally sets it on fire while smoking with", negative
+"You`re right- you don`t do sympathy very well", negative
+"Eh, I`ve gotta go to bed anyways. Goodnight.", neutral
+"wow... that was very sexy", neutral
+"1 surprise party today, 2 parties tomorrow.  FunFunFun! But, need to finish bug project. O_O", positive
+"Ha-ha abbreviate it , so it`s not so bulky", negative
+"I gave up following  - She seems really nice but clutters the hell out of my feed.  It got annoying.", neutral
+"You should spray yourself with the non smelling repellant that stinks to high heaven", neutral
+"I am new here", neutral
+"my knees are sore after physio", negative
+"Ugh that walmart was so hot and white  is it wrong that I can see how people become agoraphobics?", negative
+"yearling in pet home died... very sad for their whole family", negative
+"aw you could have played the **** game with me this morning! Nobody else wanted to play", neutral
+"Going home... with sore #eyes", neutral
+"Good morning universe, how are you today", positive
+"I want to SOOOOOOO BAD!!!", neutral
+"I bruised my toe worse than my I did my finger. It **** hurts right now even with ice on it", negative
+"aw thank you sam phil, i love you", positive
+"The rest of the week is less than 2.5 hours long", neutral
+"also, Lipton`s Sparkling Green Tea is gross", neutral
+"you are a slow answerer!", negative
+"WOw, that`s a lot of work.  I hope today is a day off for you.    I`m working as usual.  But, getting some playtime in too.", positive
+":   whatcha reading?", neutral
+"lets see.. we hate that groupies are **** near stalkers.. we love that they send gifts..", neutral
+"Working on several book projects that are due to be released within the next few months.  I need an extra pair of hands!  It`s all good...", positive
+"So glad the days almost over... Another nite of me nd my pain pills alone at the crib lol. Ughh I wish this weekend was over alreadi!", negative
+"english class! working on interactive orals", neutral
+"Good morning", positive
+"I would LOVE to learn trapeze! I`ve wanted to do that since I was a kid. Sadly, there`s no place where I live that teaches", neutral
+"I just saw Nick`s friend Jose D Fish GH3. ****. Well, on to Star Wars  I`ll probably be going to a MLB game if I get good seats", neutral
+"_spn your boyfriend didn`t even say bye!", neutral
+"_berra happy birthday!", positive
+"yea just fun dive..a bit scary sometimes but fun.  u like diving?", neutral
+"17 hours left of being a teenager.. and ill be sleepin for 8-10 of those hours.. how depressing", negative
+"showed my fluids decreasing slightly. So doesn`t look like she`s letting me out of this bed anytime soon  I have a follow up U/S next week", negative
+"I wish the sun would come out...I guess it doesn`t matter since I`m at work and can`t enjoy it anyways", negative
+"LA unified summer schools drastically cut due to CA budget  cuts. Very sad", negative
+"Wish my U2 beta key worked now. Don`t want to wait `till Wednesday to play", neutral
+"yes mate, on Friday", neutral
+"got an A in english again  yay..  but a D- in maths", neutral
+"got a super cold!", positive
+"My debit card is going the same way as my credit card, it`s snapping", neutral
+"Google going down means DoubleClick goes down too, means I can`t get any work done.", negative
+"Wow, mosquitoes in the backyard suck.  So does coughing myself half to death in the middle of the night and keeping Cassidy awake too.", negative
+"off to bed I go..have a great Mom`s Day all you moms!", positive
+"let`s hope so", positive
+"http://www.CultureShockMag.com  shoutz 2  the mix on the site is gonna b nervvoouuss", negative
+"http://twitpic.com/4wij6 - my oldest nephew playin on my guitar hero drums", neutral
+"We got JoJo in for free and free drinks for Mom! My kind of night", positive
+"The Disney Store is not treating me to well with hours  I realy want to go on 6/13. I willdo anythig to go to the show ;-)", positive
+"my hubby is staying for one more week in Uzbekistan", neutral
+"happened about three weeks ago. Why, is there a serial card fraudster on the loose?", negative
+"I`m looking forward to going home tomorrow, but I really wish it was for a different reason.", positive
+"Added Twitter updates to  Facebook page at http://tinyurl.com/d4cxze wondering if this one will show up...", neutral
+"I need horror to be lovecraftian actually, not enough weird horror movies.", negative
+"and what about me, huh? I`m crying. Did U forget me?", negative
+"Sorry to hear about the laptop troubles. Hope you can get them fixed and the lappy back to norm.", neutral
+"man i need 2 find a siitter Val still aint **** wit me  LOL", negative
+"Drinking and smoking is very bad.---but im grown tho", negative
+"happy mothers day..", positive
+"Because you`re everything to me DEMI LOVATO", positive
+"http://twitpic.com/4hsd2 - Weheyyyy   We give thanks for MIDI keyboards", positive
+"Thanks so much!", positive
+"thank for ur gnite and... *thank* for ur photo of sims 3... heart broken here", negative
+"_petty I`m leaving community college with a bang!", positive
+"im sure he will  and if its not today, maybe it will be tomorrow..", neutral
+"GAWD!. If only that dream actually happened last night....", neutral
+"I`m going to Cali in like two weeks! But it`s nor cal", neutral
+"So who`s going to win the Heineken Cup?  Just need to know who *not* to bet on", neutral
+"Praying for pressure on brain 2 subside, for brain seizures 2 stop & for tumors 2 go - Dan is comfortable but still has niggling cough", neutral
+"Stress test: http://www.selfhelpmagazine.com/psychtoons/glasbergen/StressManagement/StressTest.gif  Good luck!", positive
+"good morning everyone! hope you al have a lovely sunday!  (and i do hope it doesnt rain tomorrow :|)", positive
+"Can`t wait to see you on December in Switzerland for a third rendez-vous  Great show ! You are just amazing  ... Enjoy in OZ", positive
+"Union Square? Somerville? You`re better off with the 87. That probably helps you zero at this point, though.", neutral
+"and yes, I have seen your comment and yes, I did have the right answer.  I`ll get over it.", neutral
+"mum just made me cry coz she said something so sweet to me  i love her so much! MUMS ARE THE BEST!", positive
+"had a great day...and now I`m off to bed. tomorrow I`m back in sd", positive
+"So bored in chem n im super hungry! Ugh", negative
+"Aww how cute! You`d love my bathroom  http://twitpic.com/4jez4", positive
+"dude, saw your Twitter profile after a long time - love the background. way way cool!", positive
+"sabi ko nga lighting up is hazardous to your health, but got shoes for it  thanks love", neutral
+"just one of those days where loneliness creeps up on you slaps you in the face.", negative
+"i don`t even want to go to the store to get ice cream.  i wasted a cute outfit on... sitting on my **** on twitter!!", negative
+"greaaat, do minee now pleaseeeeee", positive
+"You missed me!  lol", neutral
+"Ooooh Kay! Its time for me to stop twitterin and get going...", neutral
+"in santa clara a long way from hoe, well not that far. it sure seems like it.", neutral
+"A Happy Mother`s Day to all moms and soon to be mom`s out there.", positive
+"... an explosion of them? in the late eighties we had very odd weather and instead of them migrating the wind blew them back", negative
+"I no  he`s the same friend that went with my bf to something at t... Read More: http://is.gd/JmjB", neutral
+"31 degree centigrade is much hotter than 30 degree centigrade", negative
+"Jz local movie here. The title`s virgin 2 :p actually i feel not so good. So tired n dizzy", negative
+"Ugggh school is so boring! I cant wait for this year to be over. So stressed -.= i shoulda stayed home today....", negative
+"you are right, enjoy the lasagne,", positive
+"is addicted to the pet society app on facebook", neutral
+"My bed had tha nerve 2 call my blackberry askin me where the hell I was.......looks like I gotta go ya`ll  I`ll c u in 3.5hours, after nap", negative
+"Oowweee!!! China club wuz poppin!!! Lipstic n Pumps were in full effect!", positive
+"I know it`s just a sprain. It`s a repetitive injury for me.", negative
+"- Have you dissapeared to go on the Ellen Show?", neutral
+"A bit early to confirm a trend, but daily site signups are still on the rise", neutral
+"i can almost imagine what the call taker must`ve felt like taking that call...especially if they have young ones at home.", neutral
+"purrrrs.... ooooh that will do", neutral
+"what is it with chocolates? i just can never say no", neutral
+"sunny day, sunny outlook", neutral
+"Hi Nancy your fine (till it the baby moves!)  Just get out of the house & do fun stuff early! The hardest jump was 1 to 2", neutral
+"Ahhh I can only imagine what you`re looking at!! So luckyyy. Hope your having fun.", positive
+"i was helping my dad re decorate my bedroom. time 4 a shower!", neutral
+"_B You didn`t see everyone going on about it on Facebook about 3 months ago?", neutral
+"stopped at the store to pick up some items and debit card is missing", negative
+"Writing this paper is a lot harder then i thought . LOL", negative
+"today was such a horrible dayy", negative
+"is working 4 to close", neutral
+"i can`t believe you`re coming near me! but to a place that i can`t get into.  i love you, Jenny!", positive
+"Had a little fight with My Best Friend   What should I Do?!?", neutral
+"So sorry about all that  praying for you", negative
+"already knows 3 dishes: Torta, Hotdog, & Itlog. Hurrah for me!", positive
+"Aw where are you headed to? i just cancelled my trip to Aussie", neutral
+"Star wars day! May the 4th be with you.", positive
+"How hard is it 2 be running back an forth constantly? Ya kno workin all the time, havin crazy sleepin schedules? Must be hard", negative
+"- wait for the third day!!", neutral
+"I`m in a traffic jam", neutral
+"If u want to change the fruits, u will first have to change the roots. If u want to change the visible u must first change the invisible", neutral
+"Whaat? That would seem to be a very powerful spell. Kind of tips the scale in their favor.", neutral
+"Cant stop playin` in my head  -- pussycat dolls jai ho ellen degeneres [HD] http://bit.ly/HxLfm", neutral
+"Happy Mother`s Day! It will be a good day", positive
+"This GAR keeps going out - 3rd relight", neutral
+"_2 Hey, Thanks 4 The Advice & Support", positive
+"_oliver whats for breaky then, russtle something up for my hangover please our jamie lmao", neutral
+"i bit my tongue sooo bad...it`s swollen.", negative
+"http://tinyurl.com/67sk5r Follow my blog and I`ll follow yours", neutral
+"_and_Easy when will these stores in Sacramento open? Been waiting and nothing", neutral
+"Just took $10 off a guy who thinks he can bluff three times in a row and get away with it. Now back to showing how **** my work is", negative
+"my saturday was good  i cannot wait until this monday night", positive
+"I guessed right, like 25 minutes ago...do you even see your replies....lol", neutral
+"Does this happen every monday?", neutral
+"thinking about having lunch soon, but we have no food in", neutral
+"if not impossible", neutral
+"just got Up and going to get ready to go to meadowhall ;) can`t believe my internet broke yesterday  GUTTED", negative
+"does this mean you`re leaving me?", neutral
+"19 years for Phil Spector  http://bit.ly/199ZWD", neutral
+"tomorrow will be my last day in work.. how sad.. bye Ange", negative
+"Want: Trip to Boston next month. Need: Addit`l motivation to save the $ to do so.  Beloved daughter wants to go with, which = 2x the $.", positive
+"is bak in mcr....glad i can sleep in ma own bed 2nite yeyah...but i fink i,m missin popeye  hopin 2 c him 2moz  ****", neutral
+"I am now eating one of those big subway cookies with a glass of warm milk. YUM", positive
+"20 mins from BEJ to Semanggi. Traffic on Friday  *siggghh*", neutral
+"about to play my first game of apple to apples!!   wish me luck...", neutral
+"Restoring new iTouch 2.  Excited to use it. Yeeeeeeeee. Goodbye iTouch 1.", positive
+"Glad it`s Friday... but bummed that I am officially working Saturdays.", neutral
+"The movie was AWESOME, I wish I could re-load my pistols like Agent 0 did, but I do not want to be him  I think I will be Gambit", positive
+"Smiley absolves all", neutral
+"have you check oceanup?'miley cyrus justin gaston fight after lunch' you ok with justin?hmmm.im with you whatever happen", positive
+"watching SNL   yay for  hosting!  I love him", positive
+"at work. these five year olds are gonna keep me young.", positive
+"be sure to go by my blog today    -  and check out your friends - I bet you have some new ones today!", neutral
+"Yay!  SNL is on!", positive
+"had a good day but im now skint again", neutral
+"God! They look stumpy... I`m not sharing my toes tonight", negative
+"I guess, technically, I was still pregnant just a few months ago. Just with Alex instead of Elizabeth", neutral
+"Having asthma issues today.   BAH!", negative
+"today was boring, but i did a lot of homework. tomorrow should be amazing, i can`t wait.", positive
+"happy mother`s dayy!!! to me andd the rest of the fabulous mommy`s out there", positive
+"Happy Mother`s Day to all the mothers!!", positive
+"nope  we only have one really good cuban place... i`ll have to ask them...", positive
+"i really want to marry leighton meester. ****, can`t take my eyes of her.", negative
+"this traffic is ridiculous im may not make it", negative
+"wow this morning 8.15 hrs ding dong breakfastservice, was a surprise of Marjoleine, Guido and Dirk for mothersday.Mother hapy, father too", positive
+"hey Nat, just wondering, why are your videos never available on the iPhone?", neutral
+"argh, sorry, he`s just been a thorn in my side since we got him. rude, mouthy, etc.", negative
+"no  are you for sure going?", neutral
+"Nice! That sounds great! Let me know when and where.", positive
+"still can`t figure this twitter thing out, i can`t my background pic to stick and i can`t seem to change my profile pic", negative
+"ugh!!! i hate my life! no one is hiring! *sigh* stupid economy.... stupid bush", negative
+"Gah, I`m jittery and upset for absolutely NO reason...", negative
+"_Kinda_Guy  your kids are growing up around science guys. I grew up around politics.", neutral
+"y u gotta say all that", negative
+"I hate you", negative
+"Was about to head downtown...now there`s a flash flood!  - Photo: http://bkite.com/07XFs", neutral
+"Ahhhhhhhhh man blew up my amp!!!!! no more shredding", negative
+"And so very you.  You know I say it w/ nothing but love, dude.", positive
+"_l I blame you for 1/2 price Fridays replacing Free Book Fridays. They don`t want you doing #rrtheatre anymore.", negative
+"whooaaa. just got an overwheolming itus attack after eating", positive
+"Bye twitter & FB world! I`m at the San Francisco airport ready to board Air China. Not sure if I`ll have Internet access", negative
+"_McKay2009 sadly no, sitting inside as mobile signal won`t work in the garden   I`ll be opening the wine at bang on 5pm though!", negative
+"NICE TO TWEET U", positive
+"rather excited about my hospital placement starting on monday. I get to give needles and take blood", positive
+"Is dreading going to work  BUT....its friiiiiday!! whoop!!!", positive
+"I told ya`ll I am a good girl. You can see my halo and everything", positive
+"heheheheh... lol... I always figured he`d send them your way if he got any dupes... I felt bad not sending him stuff...", negative
+"mothers day..didnt do anything exciting...saw a movie", negative
+"Its awsome... when you know, that you know, that you know!", positive
+"cleaning and packing", neutral
+"Something like that!", neutral
+"trying to finish moving stuff for tonight don`t feel good!!!!!", negative
+"Tweet riot. I can`t download Tweet Genius on my other device", neutral
+"would be more fun to date then Steve-O.", positive
+"I have to call stevie to reschedule!!  I won a competition yesterday to the launch of sims 3 at Luna park, same day at 6pm", neutral
+"is watching wolverine at last.", neutral
+"Tired, tired, tired.. Didn`t sleep well last night..   Thought too much.. Slept not much.. Glad that it`s almost weekend!", neutral
+"Happy Mothers Day to all that are, all that are trying, and all that haven`t nailed their teenagers to a tree", positive
+"Just sang 'Shine' by Newsboys in the car with  Holla!", neutral
+"Filling out paperwork.", neutral
+"Laying in the dark thinking of you.", neutral
+"just got home.", neutral
+"Planet Fitness on Van Wyck, keep hearing all the homies tell me bout it, plus its close to the hood, u know my lazzzy ****!", negative
+"Mock AP Chemistry exam today! Then to Central Park!  Is there gonna be a AP Chem v. AP Bio tournament?!", neutral
+"not a lot!! im bored! My names Crissy BTW lol How u doinnnn???", negative
+"Cannot sleep. 2+ hours of tossing and turning.", negative
+"_UK That sucks! I had my exams be4 half term so It`s all good. Although they were major subjects now I have languages and stuff", neutral
+"aaawww im soooOOooo tired today.. i dont feel good.. i dont wanna go to work wah..  but yeah im goin to work in a few mins. til closing..", negative
+"Sharapova loses 1st set 6-1", negative
+"aha thanks Jae", positive
+"None of the people I talk to in my P.E. class are here  I`m going to be so bored all period.", negative
+"**** - that`s sad, then... I haven`t heard the new one yet. Sounds like I`ve been spared a tragedy.", negative
+"just woke up, its laura`s last full day here  Last night we watched embarrassing home movies", negative
+"ang payat ko na, yes! hoping to go down to my Melbourne weight from last year  http://plurk.com/p/su622", neutral
+"Grrr! My internet will be up and running next Wed  at least now I have a def. Answer!", negative
+"you cooould say that", neutral
+"ive very picky about what i put in my mouth. i hate onions. they make me cry  )", negative
+"Sounds like fun... I think?! LOL! I naughty, should be ironing and watching NK **** on youtube instead! LMAO!", positive
+"i dont want the seniors to leave", positive
+"Congrats on the tax refund.  Those are always nice.", positive
+"ate ****, I refuse to bless her cuz she already clingy", negative
+"is live on danny noriega`s stickam. he said hey to me  i luv him!!!", positive
+"_express i didnt get to see it tonight", neutral
+"I love that my boyfriends loves my mac n cheese. he even took some to work with him", positive
+"lol   What are your plans for today (or should I say tomorrow) then ?", neutral
+"My mom likes Milow`s version of Ayo Technology... It`s a good thing she doesn`t have a clue what it`s about.", positive
+"finally packed...thinking its time for some sleep! Ready for Chicago!", neutral
+"been there  sucks like hell.", negative
+"awww bb, you sound lonely  I want to drive up there/fly and snuggle you too", negative
+"Hey, I made us a house on the Sims! Oh and you have like a perfect balance and i`m always lacking stuff like fun etc!", neutral
+"Oh snap!  Just broke my windshield while replacing my wiper blades.", negative
+"on another note I totally love this pic of you and your dad....old pic -  http://bit.ly/18aEG8", positive
+"I know how you feel.  Takes far too much time out of my life!", neutral
+"Happy Mother`s Day to all the mamas out there", positive
+"hi thanks for following me. u doing much? been a long time since i last chatted to u", positive
+"lmao back in queens now", positive
+"`Whats your stand on **** marriage?` - me. `what the **** natalie, stop asking me these **** **** questions! Go get a job!` - dad.", negative
+"Wave looks interesting. http://bit.ly/pvYYh  If we are going to live our lives so connected might as well be easy right? Google owns us.", positive
+"I dont get how to use twitterr!", neutral
+"**** Latvian beaurocracy. As a non-resident I can`t publish my braille highway code. Another blind alley  Woe is me. Anyone speak farsi?", neutral
+"Spend a great time with family and friends. Thanks you guys", positive
+"i can`t figure out how to listen to it from the internet", negative
+"would love to see that!", positive
+"As appealing as that is and the fact I would hop on it pretty quick, I dont wanna impose on your sacred bday hun with ur friends", positive
+"my cousin is in jail for shoplifting and drugs she is 16! im upset please help me feel better", negative
+"Where`s my baby?!", neutral
+"woke up from bad dream.  grrrr", negative
+"Just the mother of all bad days", negative
+"trying to understand why WHY i joined twitter.....everyone else was doing it i felt left out", negative
+"lookin forward to a lovely meal out for grandparents 75th at posh italian", positive
+"The photos are AMAZING! What a GREAT subject & way to get people educated about Darfur! HUGS! U are an inspiring woman!", positive
+"missed interview on NPR, ironic because listened to NPR all day on long **** car trip, watching Needle now, looks good", neutral
+"its my birthday too  but its the 10th of may right now for me.. and its probably the 9th for you.. happy birthday anyway", positive
+"ninja sushi for lunch but dominicks was out of sour gummy worms", neutral
+"ComicCon? That`s cool!", positive
+"pleaase dont start dating her, that would suck, then disney kids would listen to ftsk. thanks", neutral
+"hey sorry i just got the tweet about the puppy... and someone already got it", negative
+"What a busy day ... am disappointed that today`s show is a repeat", negative
+"thank you my love", positive
+"around...takin it easy tonight b/c i`m still sick", negative
+"I am back from the best party ever", positive
+"u understand now why i keep telling u MAKE A TWITTER app that understand MY NEED", neutral
+"yeah surrrrrously. we win", positive
+"wishing i had marvelous misadventures of flap jack on DVD", neutral
+"i havent laid my verse yet...", neutral
+"playing `who am i?` with my sister!", neutral
+"true that! don`t know why i bothered this morning cos I just put it up in a pony soon as I got to work anyways", negative
+"_ yeah sorry i was busy last night  ill try and go next week!", negative
+"_agwl Talking to whom? This `Shah Rukh Khan` is an imposter here... LOL! BTW thanx for the follow...", neutral
+"In school ; With Victoria & Bryan (: _ no more school soon, sadd i am", negative
+"_Pearson", neutral
+"Just got out of the VAST show & IT KICKED ****! Just as mindblowing live as on CD. Sang my fave songs. Im n awe!", positive
+"So i think my son might have the flu cause I def. just cleaned up a stanky puke mess  Poor pumkpin", neutral
+"At an art party. No crazy artists as such. Bit padestrian. No skanking", neutral
+"Pooping in a Pennsylvania rest stop!  I hate using public toilets", negative
+"Yeah yeah? How the heck are you anyway? Sastch it up again this year? I had to bail out for lack of expenses", neutral
+"Remeber my blue dolphin?  I wore it out, thinking Victoria day gift for me?", neutral
+"ahahaha! That`s funny.", positive
+"Coffee didn`t turn out good tiday but excellent!", neutral
+"Stunning weather today/this afternoon/now - couldn`t ask for better!", positive
+"wassup with u this morning.", neutral
+"Tshwane wants double rates but try and phone to get service - endless loop #fail", negative
+"saw kim kardashian on robertson today, ate a hella good sandwich at bay cities in santa monica, and just downloaded a lot of new songs", positive
+"The geek in me won.  I am building my own photoblog theme...", positive
+"haha Hey, Well if you were in the elevator you should have said more!", neutral
+"starts tomorrow and I start to study again", neutral
+"At natalies just finished work. Had the most AMAZING peanut butter sandwhich EVER. <3333 I miss your faceeee", neutral
+"Yeah  :p", neutral
+"Twitter won`t let me update online. My update box won`t work.", negative
+"It`s a beautiful MN day, but I`m stuck inside playing Zelda.  I`ve gotta play at least 10 hrs. today.", positive
+"happy maders day", positive
+"_oliver  I was off by one year. I really wanted some of Jamies cooking books in ENGLISH!!!! not German.", neutral
+"ahhhh.same here with Geometry, like i said b4, if i didn`t have it, i would be graduated!! so i feel ur pain hun!", negative
+"they just said she was very elusive; should be tricky", negative
+"_jackson already there`s none left  back to cabbage soup", neutral
+"With Russ and Joe!", neutral
+"dude... Can you really be a bachelor at this point?? Don`t worry about it.", positive
+"Tiesto in Vicky Park - how excellent", positive
+"sorry I missed you at the farm today, but DM me if you would like some photos from today", negative
+"anticipating a tough day ahead", negative
+"well, maybe you can always head for CNT. be sure to save some for me!", positive
+"Sorry to hear that.  Keep the faith though.  I might not be as bad as you think.", neutral
+"Yeah he`s also partial to JT and TI Dead and Gone and Pink`s Sobre", neutral
+"First steps on Twitter. Just checking", neutral
+"back from dinner w. my family. i`m not meeting christine anymore  sunny weather tomorrow and a day out & about. i want red bull!", neutral
+"heyya people!", neutral
+"i did, haha. i`ll run is more suitable, at the moment.", positive
+"I missed out on carrot cake last night.  Hope you had fun .", neutral
+"Happy mother`s day to your moms.", positive
+"http://www.eabeauty.net - The world of beauty and pretty girls   I`m testing new version", neutral
+"I know man, my day off and am pulling myself out of bed", negative
+"ISP all sorted i gather?! cheers for the bday wish too", positive
+"... so I can`t charge you by the hour then?", neutral
+"No. That would be too easy. All I have is the user manual which is not enough for me to claim his bike", positive
+"No mine looks the same.", neutral
+"Thanks for the link. I`ve been out of NY, missed many non-online bills so know how badly my score`s been hit", neutral
+"u have a lot  but the bad thing is we r gonna have finals all next week", neutral
+"You don`t get them anymore?", neutral
+"I`M AWAKE, AND HAPPY!", positive
+"early morning~2:30 am~what`s up? I am!~~!!played w/ my babies outside~wow~was in the 80`s~felt great!~~got lonely, misses sissy and jess", neutral
+"I WANT A GARDEN  sitting inside when it`s sunny sucks.", negative
+"Last day of holydays, gotta get back to work    Anyway, 2 great weeks", positive
+"Such a long day!!! So much fun though  tomorrow will be just as much.", positive
+"Happy Star Wars day", positive
+"happy mothers day x & go the dockers", positive
+"Going I sleep today was a long day happy mothers day to all the moms out there", neutral
+"@ metro with achan", neutral
+"that same smell is wafting thru my grandparents house, papaw has the smoker going out back..we`ve got a long wait tho.", neutral
+"took the most amazing power nap ever. now its starbucks time.", positive
+"nice! now gimmeh some nice stuff", positive
+"aw anytime, boo. I realized that all I need to have some fun are you guys.  We should change our pics to the poofy hair ones!", positive
+"maybe used to have. Besides without AC it`s too hot to sleep", negative
+"My cucumber has gone limp", negative
+"good morning/midday nation!  FORMULA ONE IN ONE HOUR!", positive
+"About to leave the fights. I`m tired and my voice hurts.", negative
+"hhaha kewl dude!!  but if u dont know & he does have a reason well thats another story mhmhmh...does he?", neutral
+"_kiss I can`t find it on YouTube   only the concert versions....HELP!!!", neutral
+"heading out to dinner in a minute - cant wait to have food.", positive
+"_zero its cool, and thats good", positive
+"Kills me to see you online and not be able to say hello", neutral
+"You`re following Ellen, Oprah, and... me! I`m honored!", positive
+"Charley horses in both legs all night. What the ****?", negative
+"Ok all have hit the point of relaxation.. heading to bed  sleep well and Happy Mother`s day to all you Moms out there!! Night", positive
+"you getting a ton of spam mail into your inbox?? I am too.... driving me insane!!", negative
+"absolutely gutted that i`m not going to badu tonight.  you guys have fun...! just got home and need to head downtown now. gd this heat!", negative
+"where`s enthusiasm in meeeee", negative
+"i deffinately need to clean my bookbag. but no time! i need to leave in the next 5 seconds to not be late to school. ...oh well", neutral
+"I hate doing em, but get dragged here by ... at least it`s a beautiful day", neutral
+"don`t worry though,he will be fine", positive
+"_bug68 Bill is super!! Thanks you!!", positive
+"Good to hear..!", positive
+"going out on thursdays is a terrible idea. i knew there was a reason i haven`t done it all quarter. *pops advil*", negative
+"No FAIR!", negative
+"Watching TV with the best people in the whole world !!!!! My Mum and My Sis Agus (: Love you all ! Twitter you later ha", positive
+"Getting bored sitting at the hotel room the entire day", negative
+"is finally gotten online after logging 200km over the last two days on errands as the family driver  http://plurk.com/p/wxz12", neutral
+"im pretty sure i miss watching 'Yo Gabba Gabba' with my niece", negative
+"@_Emily_Young_ okey", neutral
+"#bgt It`s a shame that the Dreambears won`t get through", negative
+"i dont like funerals", negative
+".... you are my sunshine, my only sunshine....", neutral
+"says 2 1/2 hours to go, uwian na. . .  [phplurk.com] http://plurk.com/p/sun82", neutral
+"The Taxi Q at Pelangi was super loooong.. and now I`m getting headaches because of the hot-cold transition", negative
+"Finally off work...long night.  Hangin with", neutral
+"break a leg  but don`t do it for real it just a saying :p ' good luck'", positive
+"Just got home  interesting night", positive
+"John and I just bought four boxes of them", neutral
+"Employee orientation for serco  yayy.. I`m excited/nervous!!!! Wish me luck!", positive
+"head hurt", negative
+"Round and Round the Garden: The amazing thing is that he`s still talking to me!  http://rly.cc/JNFwN", positive
+"Whoah, slow down, you`re filling my screen! Maybe more effective if you spread tweets out?", neutral
+"have been to portugal. and spain. and has a sore throat. scary?", negative
+"Have been feeling very sick    had day off today... ARRRGH", negative
+"aw thas good im glad your happy  i jus been chillin", positive
+"i didnt get the msg!! :`( but i bought princess", negative
+"Got back from Arizona yesterday.  Moved the furniture and stuff out of the Arizona house and shipped it to Redwood City.    How sad.", negative
+"Just got back from the karaoke bar in the metreon!!! Watching millionaire matchmaker", neutral
+"heyy are you ok...? i know it sucks having her in you dorm... but i assure you it will be ok", neutral
+"Ah bad times   I hate exams. I feel so unprepared this time as well. Sucks haha.", negative
+"Yessir", neutral
+"Jane is really sad because she probably won`t get perfect on tonight`s quiz without the missing article. Should`ve asked someone for it.", negative
+"_ritz alrighty, thnx  good night.", positive
+"iigghhtt, just fur geet it. idc. idk. eh blah ugh. blah idk... hah..=] um yah.. immboredddd, ugh  ill just fuckitt", negative
+"No, I`m working on it all day Monday. Will try to remember to email but if you`re smart you`ll remind me.", positive
+"Doing make up for the school musical this week aaah", neutral
+"Yes,it`s beautiful and i`m fortunate to live in the thick of it..Very relaxing", positive
+"I`m my mom`s company picnic at a Lake Elsinore Storm game. Oh the things we do to please moms", positive
+"My class will be at Chem Sc building. Will see the both of you after 5 yeah?", neutral
+"so excited for you and Paris ooh lala  i look forward to knowing you a long long time lovely ! hugs n kisses g", positive
+"Hadnt cried in such a long time", negative
+"I wanted to beta test but saw the thread after the results were announced", neutral
+"...Now I`m going back to bed. LOL. Enjoy your time at the gym. I`ll be sleeping.", positive
+"Just got a new Ipod.  Life`s Good.", positive
+"yay!  excited?", positive
+"..i`m a buffalo worshipper  ... maybe it is time to pay a visit to my preferred buff-schack in town. http://twitpic.com/4w2ls", neutral
+"A year from now is graduation....i am pretty sure i`m not ready for it!?!?!?", negative
+"The Beatles? Those scousers with funny haircuts? More talent in The Banana Splits!", positive
+"Indeed!", neutral
+"has such a freakin migraine", negative
+"Gusying up for  dinner, Bourbon & Branch, Zeitgeist and surprise party for Taylor!   Shh...", neutral
+"there is always traffic heading back here to long island on fridays.", neutral
+"hello thereeeeeee", neutral
+"I`m jealous...i need 2 escape 2, lol.", neutral
+"haha okay you were talking about middle college grad I think and I got worried", negative
+"i think i`ll be home more than i want to be next week - no work booked in for the forseeable.", positive
+"Ok time to study for bus law and ethics, gotta test today", neutral
+"Good work.I`ve only just managed to turn my studio on... I envy your productivity", negative
+"Bit of sunshine out there and it perks us all up  Especially when you have a mountain of towels to wash and get dry!", neutral
+"There`s a spider in my room. Save me...", negative
+"If you wanna read something, I recommend  http://estrella05azul.wordpress.com/", neutral
+"Just got my dress for my friends wedding. Its a little tight in places. Gotta work out more", neutral
+"don`t i know it! i live in the middle of nowhere, my house is spider central", negative
+"Had a ton of fun w muffin today", positive
+"I`m Twitter dumb. Just saw my '.com' & all the kind folks who`ve tweeted me. AH!So sorry, I`m not ignoring you, just SLOW.", negative
+"cook ; do you wanna measure my ****? its daddy-size.", neutral
+"got it. Welchs grape too please", neutral
+"I was going to send you the photo by DM but can`t as you not following me...", neutral
+"finally graduation no more school ... im sick today", negative
+"studying math ) it brought my brain to explode", neutral
+"P9 for Danica and your team... Not a end of the world, now is just hopes for a great race", positive
+"fighting again", neutral
+"Anyone know what to do when your pc keeps restarting itself?", neutral
+"got it i`ll send you an email in a lil bit i have a lot to say", neutral
+"Mothers day in 45 minutes west coast time.  Happy Mothers Day to all the mothers out there", neutral
+"if you don`t mind, change your profile pic with a picture of you in UK. It`ll be fun", positive
+"The best I could do for proof of the crack  LOL  http://twitpic.com/66ust", positive
+"Star Trek was actually really good", positive
+"Neither could i! And i looked on ebay and it was like 250 euro for two!!!! but i doubt my parents would fork that amount out", negative
+"Were at citibank I thought we were gonna go to grannys house but were no", neutral
+"off to bed, night every onee", neutral
+"heyy dude, yuup thats it really hows your monday?  x", neutral
+"unfortunately I am stuck at work so I can`t get said prize", negative
+"psyching myself up for the next few days...oh my.", neutral
+"Just helped save a runaway dog. he didn`t want to be my friend, though.", neutral
+"take a nap bedalii", neutral
+"'AAARRRGGGGHHH' is the only thing that can decribe how I feel rite now!", negative
+"to go in their next live chat.", neutral
+"OMJ! J.O.N.A.S. is the best tv show EVER!  ?", neutral
+"yummy curry  save me some please lol", positive
+"y r we giving up on people?  I actually thought that way for a while too before I found someone who is very intriguing", neutral
+"Sitting at the Connection listening to the employees reminisce and mope about their last shift", negative
+"The Northern Clemency.  But I don`t recommend it.  Too much description and not enough action. Too slow", negative
+"wish I can go to the Roots pinic", neutral
+"morning Bill", neutral
+"gonna go outside with my daddy... gonna take a ride with his new triumph!", neutral
+"Back from SOAP, soooo fun.", positive
+"`Don`t call your mother, `cause now we`re partners in crime.` -KP", neutral
+"Just watched the 'Final Break' final prison break episode. It was great. Farewell Prison Break. You will be dearly missed.", neutral
+"Have just bought a TV tuner for my laptop.  He he.  I deserve a present", positive
+"I didn`t see this until after", neutral
+"havin fun? x btw isnt it bowling? ****", positive
+"missed the #jonaswebcast", neutral
+"Nungguin my Sista in law lahiran di RS Asih...kayaknya sih sore ini lahiran. Yeayy another baby girl in the family", positive
+"_Robert ha that was ages ago!  youre in LA right? the weather is much better there...", positive
+"oh no!!!  well..... When you get back lots of pictures!!!", neutral
+"I appreciate you", positive
+"Nicky, I LAND at 10pm, it will be like 10:40 before I get home! UGH! Wont be any fish fry left for me anyways", negative
+"Welcome new followers also", neutral
+"i must have just missed you. I was down there until 9:40 or so. Not sure if I`ll make it down again", neutral
+"awwww  bew! you wont be here at all this summer?", neutral
+"we are going all out!", neutral
+"what?! Come as you are!!! But erock just left  bah D:", neutral
+"last full day of vacation", neutral
+"this sucks schools over and there is nothing to do", negative
+"That is the 3rd NKOTB contest that Canadians can`t enter   The overseas fans have theirs now!  It`s bound to be our turn!", neutral
+"just downloaded more music and videos on my ipod.", neutral
+"I`m so hungry", negative
+"Off to bed I go to dream of a world where Wal-Mart and Liquor stores all get blown up", negative
+"morning! just got my coffee", neutral
+"it`s looking bright, so I think the sun will put in an appearance, and then guess what - lawn wants cutting !!", neutral
+"ohhh ok. thats upsetting  sorry for wasting your time. ****", negative
+"Hey  Mia!! Go to bed!!    (deangeloredman live > http://ustre.am/2NlC)", neutral
+"I agree! mmm so good, i miss eating it with you tho", neutral
+"is pumped and bummed all at the same time.......", neutral
+"I forgot I moved 100 east...make that 8 hours home.", neutral
+"So bummed that I can`t see LTJ in June  hoping for a UK yoke soon", negative
+"It`s a lie just like the restaraunt named 'Garfields'... he is nowhere to be found", negative
+"I just re-skinned. Still figuring why tweetsuite isn`t updating", neutral
+"Two more tweets to go for 2345 tweets", neutral
+"gotta play `Off the Wall` first tho", neutral
+"My eyes hurt", negative
+"www.youtube.com/watch?v=9FtuV3xMrN0", neutral
+"My TI89 died. I don`t know why.", negative
+"unemployment line here i come.", negative
+"two macaroons go into a bar....one says oh your a nut.  wow I need to get out more.", positive
+"factory ng Elmer`s? hihihi. sorry, corny! baka si ate ruby, alam!", negative
+"thank you for accepting my request!! must take care of my little girl, maybe i write back later", positive
+"bad mood now", negative
+"The CD  player in my car is broken.  So much for listening to my Kidz Bop Happy Meal CD.", negative
+"on our way home", neutral
+"It`s about time I let people know whats happenning, although I often wonder why I bother   but hey it`ll soon be Christmas........", neutral
+"oh @ work? poor boy", negative
+"Happy mother`s Day!!!! No gift to your mother can ever equal her gift to you - life", positive
+"I found out this morning too.", neutral
+"just wants to get it over and done with. I miss working", negative
+"I am not a ****! damnit!  [sending you an e-mail right now btw]", negative
+"thats great I`ll make sure I get a copy", positive
+"going to bed", neutral
+"pool party at sherraton n brodi had  a blast! the friends made the evening bbqd at home with great conversation  funky n lifted day!!", positive
+"bl MUTHAFUCKIN ah!  I win!", neutral
+"Getting a cleaning on tues then getting a tooth pulled on thurs. Then gotta schedule a bridge that might need a root canal--ugh.", negative
+"http://twitpic.com/4jax3 - Update Ableton Live", neutral
+"loves her some worship papers. and had a fantastic day. the Lord is good. and constantly surprises me.", positive
+"@_cassian is there a game   !", neutral
+"im good! im on my laptop using and external internet plug. i need to send it away to be fixed", positive
+"still up, JUST GOT HOME.  ready to go to sleep..", neutral
+"Good too thanks  So, you had a nice evening with your father? that`s cool  Thanks for the link BTW!!", positive
+"3 hours  oh my. Is it shorts weather do you know. I`d do my usual hanging out my window but the neighbours are out.", neutral
+"serio barroca?? parabens!!!!!!! May the 4th be with you!", positive
+"I`m in a pub garden,  its boiling,  hannah no likey,", neutral
+"happy mother`s day to all the moms out there. i hope i never join that crowd", positive
+"hm seems to have been because my blog was marked as a phishing site", negative
+"_a_michael i plan on it! Goodnight", positive
+"REALLY?? oh.. sorry yall  lol", negative
+"ui. where arre you going to study?", neutral
+"- they have their headaches the morning after, instead!", negative
+"I think I love a part of me saying some cynical words. Even though I smile when I say them. Do you think it`s bad?", positive
+"Had some lovely sugar puffs and just been playing with my amazing dog jack", positive
+"_storm lucky! I`m still working for another 4 hours!", positive
+"_Y_Yankees changed my default pic since you`ve been showing so much love!", positive
+"all my files got deleted", negative
+"you looked great for being sick yesterday! i`m sorry I didn`t really make an effort to say hi...  I was preoccupied for a while", neutral
+"Don`t worry, you`ll get your stamina back soon  What kind of distances do you run usually?", positive
+"I KNO I SHOULDA CAME", neutral
+"I dont know where to get my hair cut!", neutral
+"you and the guys should come down here, we are **** freezing out here!", negative
+"Im cleaning out my closet!  ahhh...", neutral
+"You`re welcome... and you`re welcome!", positive
+"Greg back in the top 10. This is why I love Nascar.", positive
+"Wait...I thought it was 9:50? Don`t we have till 10?   #sigjeans", neutral
+"my two new favorite prayers:  'help me, help me, help me.'  and 'thank you, thank you, thank you.'", positive
+"Covering my portfolio to send to my *dream job* in ny! Send good vibes!", positive
+"OFF TOPIC: missed both motorcades. The secret service tricked us all.  #bush #clinton", neutral
+"Nice glasses. Looks good", positive
+"leaving work in 25 minutes to go to Broompark then to see the new flats then for lunch with Mandy and my dad.", neutral
+"is so excited for this summer... Steve Winwood and Eric Clapton, Eagles of Death Metal, and ahhh the Dead Weather", positive
+"Welcome, you were our 10,000th follower! it`s very late CA time but we stayed up to meet you", neutral
+"http://onoir.com try to go if you can. I tell everyone who goes to Montreal to check it out. Even people who live there", neutral
+"I`m just to far from where you are, I wanna go home...", positive
+"Yeah I just accepted UBC`s offer last night, but I dunno if I`ll still make it in because I`ve been slacking off a lot lately.", negative
+"Oh whoops, my bad", negative
+"i love all da sexy ladiez ya beautiful unique and sexy, and smart. dont let a **** call u a **** cuz ladies ya worth then dat i mean it", positive
+"here btw, this is not a bot", neutral
+"have fun tonight", positive
+"Didn`t think of that.  Why can`t people just be nice? Why would anyone think it`s ok to say that, much less make a movie.", negative
+"I was only @ Cambie just slightly before the event then had to leave  Waiting for feedback though; I`ll keep u posted!", neutral
+"Just got up from a nap.. Relaxing for the night", positive
+"You must be scared to be trolling here. You guys are so sad.   #tcot #right", negative
+"Hm. Have you ever realized how incredibly over-rated Tokio Hotel is becoming? It makes me sad.", negative
+"Getting ready for college. I had a good sleep.  rainy day today. I love it.", positive
+"yeah. xD were so close already! xD i can talk to u about anything!  i love u gurrl. x3", positive
+"you deserve so much better... hang in there good things come to those who wait!", positive
+"i miss that too", negative
+"its cuz you love me. dont make me sad", neutral
+"????  ? ??????, ?????? ????????,Basquash,K-ON,07-Ghost,Sengoku Basara,Valkyria Chronicles,RequiemForThePhantom,EdenOfTheEast.", neutral
+"I`m sure some1 will **** out and play. I`m workin through til midnight.", neutral
+"'Your gonna miss this, Your gonna want this back, Your gonna wish these days hadn`t gone by so fast'  So true I already miss this year", negative
+"yay back at home", neutral
+"On the plane to yosemite. Forgot my laptop at home", neutral
+"wow, serious hard time sleeping. on a decongestant and its keeping me wide awake. I JUST WANNA SLEEP", negative
+"So long as they hold your wine without tipping.", neutral
+"and by the way it`s short stack, not sway sway  sway sway baby is a song of theirs", neutral
+"MISS YOU, TOO!", negative
+"car just drove past my house blasting celine dion`s 'it`s all coming back to me now'", neutral
+"want`s to see `2001 Maniacs` Why won`**** come through the post!?", neutral
+"woken up by mum. work", neutral
+"gonna head to bed then work, then moncton to see Jill", neutral
+"I read them a couple of weeks ago  They work really well with the movie.", positive
+"didnt cry at the end but was very sad to see the last episode of ER. man that was a good series.", neutral
+"oooh sounds yummy.  If you get a chance to take some pics  please add them to the website as we don`t have many pies on there", positive
+"http://twitpic.com/4iw0x      Thx all - it`s a 3k capacity, bought second hand", neutral
+"CongratulationS. Great funky site! U did it waaw", positive
+"While  on vacation,  having golden times spamming Google by 5.350 redirects. http://bit.ly/18kwzh", positive
+"Make sure you come back and comment again!", neutral
+"No twitpic?  lol", neutral
+"No you are not having my favorite drink without me  lol", neutral
+"Planning a road trip down to San Diego- With a detour into Vegas to celebrate my birthday! Too bad it`s 7 wks away  I want to go now!", neutral
+"Is off to meet my folks after a while...gonna b a working weekend too", neutral
+"UP is out today!!! Why why why why does my head hurt so badly??!?!??!!?   I want to see it!!!", negative
+"Sorta needs to somehow forget that its E3 in LA practically during my ethics exam and self-imposed revision time.", neutral
+"yeah I guess so  it makes me very sad though becase the disc is scratched!", negative
+"Where`s my bus? I want to go home!", neutral
+"that would be lovely, alas the cubs would not be gracious enough to stop wrecking the house while we were soaking our bones", negative
+"I`m feeling much less alone now in my love for Fitzcarraldo, most people I mention it to have no idea what I am talking about.", negative
+"happy mother`s daaaaaaaaay", positive
+"Got back and putting in the laundry. We got in there last  o well as long as its clean. #DSAA09", neutral
+"Traffic is down to a crawl on I-94 right now.", negative
+"I was saying the same thing yesterday! So I droped 120 tweets! No the smarted thing bussiness wise, but can find real people!", neutral
+"I`ll try to put together a list for a portfolio to put together along with a little bio on myself in my free time (school is stating)", neutral
+"no not proper, my dog barks too much & jumps up & its all my fault for not being strict enough", negative
+"i need people to talk to me please im very bored  x  follow me!", negative
+"http://twitpic.com/67hw5 - Session almost over", neutral
+"__Cullen_ lol  emmett wont do a dance off again", neutral
+"Finally made it through Dead Space, that only took half a year", neutral
+"Im feeling sad, not likeing my new haircut", negative
+"Hahah, thanks for the Tradewinds Odyssey bump.", positive
+"I`ll have to add your shop to my favorites! I love your needle wraps. Right now my needles are all in a mess in a basket", positive
+"Why aren`t you at blue martini with me??", neutral
+"hearing the birds chirp makes me think its nice outside...well its not  rain rain go away!!!", positive
+"Trying to stay awake  Anyone have any tips how to keep yourself awake ?", neutral
+"yeah .... just bought tickets for Pearl Jam in August", neutral
+"Can`t sleep. **** morning will come to soon. Have to rest! It will be a new day. A perfect day to start new changes", neutral
+"Watchin` JONAS", neutral
+"i feel super sick", negative
+"_x all three are in the first 2 weeks of june for me", neutral
+"i gotta say, i`m a little jealous", negative
+"Yea, D means direct, so only u and whoever u send it to can see it  But u can only direct msg someone who`s following u..", neutral
+"I was just thinking that", neutral
+"Who was it that said Vive le difference to me only the other day? ;-)", neutral
+"Surgery when I wake up", neutral
+"Oh yeah, MY LAPTOP IS FIXED. Shame my internet is still **** and slow.", neutral
+"thank you dearie -- I just followed dome of them on there too!", positive
+"Today was fun  I <3 meeting boardies! The acoustic set was just soo phenomenal!", positive
+"doesn`t kno wat to do now ER is over  saddo", negative
+"i hope you hoes are having so much fun...not TOO much without me though lol", positive
+"I`m sorry darling... I`m all over the place tonight.. I didn`t mean to neglect you..", negative
+"Apple is also rotten in the center, just my luck", negative
+"i want so bad to go to the mcfly`s concert  anybody up to go with me?", positive
+"I jus spoke 2 my lawyer, if I blow trial =3to7", neutral
+"needed my semi-**** best friend to go shoe shopping with me tonight. Alas he is nowhere to be found.", neutral
+"cheese and onion crisps are the best  alice or rosalie cullen ?", neutral
+"i forgot the yardsale event! ooh how pity i am", negative
+"_au my pleasure... hey it was played at my going away from nz party back in 87 lots   so it is burned into my brain", positive
+"I appreciate your kind words. I am glad that the words resonate with you", positive
+"BARA, ****, CLOSETS, ADVENTURE. AGGGHHHH ENOUGH! Muak mcm baby Gary ku sudah", neutral
+"ngobrolin favorite bands at the moment cii... kesian ya kamu speakernya rusak HAHAHA  benerin dong ci.", positive
+"_miss my best friend won tickets to see them from kiis fm!", neutral
+"sitting in awe that the price to renew my laptops warranty has doubled in a matter of weeks", negative
+"still awake..doing my assignments and playing virtual farming", neutral
+"Off from work now!", neutral
+"is so hungover. what a crazy night. i`m also in the bad books with mother!!", negative
+"I need to go to sleep before 4am tonight...  ... So exhausted.", negative
+"I guess you`re responding to me about DC. If that`s the case...", neutral
+"Rocket surgery hey? HAHA I thought it was rocket SCIENCE? Oh.. is that all.. I knew that I swear. Thank you", positive
+"ive got a headache now", negative
+"you really chose the wrong time of year to do this didnt you", negative
+"_HotSawce owwwwww! gooood morning", positive
+"just wanted to say hello", neutral
+"I wana be there num 1 fan  sharsies??!!!", neutral
+"yeah, still waitin`", neutral
+"You cna get em for about ï¿½17 but I`ve got one for ï¿½27 which is Asus same as lappie", neutral
+"THANKS GUYS! 200 FOLLOWERS", positive
+"i am so bored.", negative
+"thanks for following, it means a lot to me  i love hey monday!", positive
+"love the sweet g`nights every night", positive
+"is bored hehehe  i hate IPT", negative
+"you stopped followin me?", neutral
+"Mo williamssssss", neutral
+"i havent got poked much", negative
+"im joining twitter  lol", positive
+"Thank you very much Rex for FF", positive
+"THE SUN IS SHINING< THE SKY IS FACKING BLUE< TELETUBBIES? I HAVE TO **** WORK.", negative
+"um Mr. Deadly Sir . Can You Please Follow Me On twitter .", neutral
+"Watched Adaptation, Interiors, and The Women (1939). All in all, good movie night. Breakfast with dad and kelley in the morning", positive
+"LOLL im a college girl...bahahah i love these blogs they`re so funny!", positive
+"good topics. and ciggarettes.", positive
+"i chewed up a Starbucks and a Subway gift card at Christmas time, I got in big trouble. I not allowed near purse.", negative
+"Happy Mother`s Day to all the Ladies... With all the moments we cherish with our children, today let those moments cherish you in return.", positive
+"Done with HW...gonna read a bit then pass out. Got a cool week to look forward too in between all the mayhem", neutral
+"aw poor u   DON`T let her get 2 u just ignore her n keep ur head held high she iz just immature lil girl lol", negative
+"Yup, 1987 lol. SWEET YEAR  haha", positive
+"listening to the new demo! This song is going to be fantastic once its done!", positive
+"_marie1 hey beautiful whats up?", positive
+"is having a lazy sunday", neutral
+"i really miss my satan kitty", negative
+"my gut feel says its gonna be a boy ababa", neutral
+"yup, studying. At least I`m trying to. Trying to let the stuff I read enter my brain permanently.", neutral
+"Goodnight world and all who inhabit it!", positive
+"still aint get my vanilla frosty yet.", negative
+"knows its all going to sort itself out", positive
+"lost my keys at the mall... took me 45 mins to find them", negative
+"Having rice crispies this morning  Brings back some good memories!", positive
+"Google Chrome forgot what everything looks like for some reason", negative
+"Immediately regretting my decision to come into the office today, miss my bed", negative
+"Finally watched the last couple episodes of The Office on NBC ( #theofficenbc ) - I now understand why Gervais stopped after 2 seasons", neutral
+"I had a horrible dream  it had to do with a scary face, now im awake for the rest of the night. God dammit ", negative
+"Yes, Cathy.  (Ordinarily, I don`t have much of a problem with naked girls chasing me, however!  )", positive
+"Going out. A barbeque maybe?", neutral
+"You fooled me!", neutral
+"Lucky you  I face south so I can hear them, and see them reflected off Phillips Point", positive
+"can`t find my trusty hair tie  My hair will spill all over the place when I run!Mom`s bands doesn`t work for me,normal ones hurt.(((", negative
+"Ppl dont miss out on me on this Follow Superstar Sunday", neutral
+"_juneau I did, until my parents got all f`d up and I started comfort-eating", negative
+"3 days left of school!  For Bryce and Tyler, that`s 3 more days of elementary", positive
+"So sad. Your mom must be very shaken up. Peace and strength to her and the dear family that lost their little girl", negative
+"Maaan if I was in pain I`d come. I wanna come  eat some 4 me lol *rolls eyes*", negative
+"Sitting outside in the cold by the ocean with a glass of wine.", positive
+"_smith1 wats i got luck for u guys to beat la!! lol i would like to see this best wishes to the denver nuggets but my cavs are done", positive
+"come back to Perth     I missed the show here!", negative
+"Stupid sun i  actually have to work now", negative
+"Red? wtf happened to dark blue + black stripes?", negative
+"Happy Mother`s Day to every single mom out there. I love my mommy", positive
+"I`m so depressed right now. IDK...", negative
+"just realized i have 30 followers HEY GUYS", neutral
+"Not to worry, noone got that one. Next question starts in 1 minute, get your thinking caps on", positive
+"twitter is trippin right now with my pic", neutral
+"I promise to post new mini magical village today, the weather is perfect for it   See preview here: http://pengpengsplace.blogspot.com", positive
+"Home with Maddie  I`m tired.. Goin` to bed afterwards", negative
+"I created a monster! bwahaha! oh, and I got your baby home safe and sound.", positive
+"i am going to be disgraced with myself for life if i don`t make it in next year. being a perfectionist sucks. good luckkkk", negative
+"goin to work", neutral
+"_Logos nope my computer right now is in need of a power supply so im useing an old office machine", neutral
+"It`s going to be a fun night and I`m helping host it!!!", positive
+"Going to REtake my Softball photo because Patrick`s Studio is a piece of ****. Back here for chores. Some Friday, huh?", negative
+"I have two hours to wait for my tire to get repaired.", neutral
+"thats real geek talk! haha...I feel you!", positive
+"aww that is sad", negative
+"It`s hard to tell But I think I`m right   I hope.", neutral
+"wanted to go to the club...dancing;)..but now iï¿½m tired anyways i have to go to work tomorrow!", negative
+"_anke What`s wrong with the ski slopes of MK? They`ve got coffee shops as well y`know!", neutral
+"i love the cheesey ones, and the cool orignal ones  , , , skips i have when my brother has them got to try them u c haha", positive
+"In the arts having coffee and cake", neutral
+"thanks for teaching me how to play a part of that song", positive
+"Btw that song is you`ll always find ur way back home by hannah montana", neutral
+"I can safely say I won`t be a euro winner this week!!", neutral
+"but I keep updating.", neutral
+"i was right about the wave off", neutral
+"i just realized today was my last day to see my best friend tanner im goin to miss him so much", neutral
+"The Veronicas are gonna rock the stage tomorrow  HAPPY MOTHER`S DAY EVERYONE!", positive
+"I`m hurtling headlong into a day of spanish and art. but my view is: after tomorrow it`s just REVISION and extra frees", negative
+"no, stay and play!!!", neutral
+"- im hungry...but there`s no food at mah house.", negative
+"Nothing to do. Just sitting here. I can see Mrs. P and her husband", neutral
+"karma is a **** ! i just got hung up on  lol i`m still a big dawg though", neutral
+"Greenville Drive games just aren`t the same without the 'Baseball Guy' clown.", negative
+"in that case.. that`s a stupid move  I thought they were being B-A", negative
+"Why are we busy ugh I have the largest headache", negative
+"I absolutely LOVE you.  Thanks", positive
+"At ihop with the besties..minus one  where`s the dr.???? At work of course", neutral
+"You, the other crew and COB tried your hardest to put on great shows and fans all appreciate it. Tell Alexi get well soon  MH.", neutral
+"HAHA! Follow john mayer..he`s a pretty funny guy  I want to move to L.A .... it`s so much more fun!", positive
+"Don`t leave forever! We`ll miss you too much", negative
+"now Eating and meeting at the same time sigh well well I want to start work out too but will have to wait move to my new house", neutral
+"Me too.  Wonder if Mnet will show it...", neutral
+"_ I hope filming is going well  I`m new to the whole 'Twilight phenomenon', they couldn`t have picked a better 'vampire'!", neutral
+"its a hott tuuneee,", neutral
+"oh hi terri good now what about you? any good gossip", positive
+"Breaking the daily build broke my daily plan as well", negative
+"Should be drank with sugar and milk, not coffee. You have coffee on my brain.", neutral
+"I`m there all weekend, expecting it to be way too hot", neutral
+"why does my body decide NOW is a good time to wake up every morning at 8?! Maybe Dean will wait for me in my dreams...", positive
+"Got up early did a **** ton now im headed to cherokee park to run  and walk !", neutral
+"Not actually managed to purchase anything from the ovi store yet. Constant server error on check out", neutral
+"Come join the fun as I through out the first pitch at the Legends game... May 16th @ 7 pm!   http://tinyurl.com/6nkpuz", neutral
+"Defeated by a Polo", negative
+"Why doesn`t McDonald`s make PINEAPPLE pies?", neutral
+"has spent the last two weeks attempting to grow a beard (from scratch), but fears it may look a bit rubbish...  http://twitpic.com/66tyb", negative
+"your welcome", neutral
+"i do i do, i feel absoulutley fine", positive
+"really wants a puppy...", neutral
+"its raining", neutral
+"they are all over one is a fan with a vip and the other one is the winner of the twisted vid  het si weer eens raar gelopen, chaos", positive
+"Ok hubby really isnt going to be logging off anytime soon  what to do what to do?", neutral
+"first time", neutral
+"How Do You Sleep - Jesse McCartney", neutral
+"if you cant hide the tweetie icon why not change it   http://twitpic.com/4j92o", neutral
+"Jason Mraz is still serenading me, while I read 'Judicial Supervision of Executive Action in the Commonwealth Caribbean'.  BBL!", positive
+"then i kill Bradies gf and have Bradie", negative
+"I knew my mom loved flowers and she loves the Rieger Begonia so... hanging basket seemed perfect", positive
+"Happy Mothers day  <3", positive
+"Yep, this is about as 'boonies' as it gets, if you look at the map   In transition. Gotta find a place and a job. - http://bkite.com/07kjR", neutral
+"Why aren`t you coming to Montreal?", neutral
+"yeah", neutral
+"learning for school now ...", neutral
+"Goodnight!  Happy Mothers Day!", positive
+"You better believe it!   and I wouldn`t miss it for the world!", positive
+"end of work... Thank God! I accomplished a number of things...  http://plurk.com/p/rpaag", positive
+"D= indeed", neutral
+"_Anderson your tweets were awesome  **** the heat. That`s what dencorub is for", neutral
+"I really like pink after I saw her live while in the new T-MOBILE Advert", positive
+"going to london", neutral
+"Will do - promise - thanks", positive
+"I wanna go shopping!! I don`t get paid till next week!!", neutral
+"Its a Bank Holiday!..... If you`re happy and you know it CLAP YOUR HANDS!", positive
+"aw man im sorry! I have logical reasoning I promise! I had to study in order to tutor my new student! 4give me", negative
+"i`ve been up most of what normal ppl consider the night.  no problem going to sleep but nightmares been waking me up.", neutral
+"Oh, ouch. That hurt.  **** washing machine is out to get me!  <.<    >.>", negative
+"My day was good!  Spent the day catching up on sleep, relaxing.. kind of a lazy day! hehe. oooo shopping! How did you resist?", neutral
+"you`re welcome char, glad you liked the cake, it`s pretty simple you should give it a try", positive
+"Were you going to come? The venue said that they couldn`t afford to open so cancelled it. I wish we were there now!", negative
+"wide awake ready for the big shopping trip! hope I get tones of sweet dealz and lots of fancy clothes", positive
+"Thank you guts for 360 followers! It means a lot!", positive
+"why does everyone sing playback at the Comet", neutral
+"You got it! YAAAY!!! I was really worried your phone wouldn`t fit, so glad it does!  Happy Mother`s Day, lol!", positive
+"I could go for some Lulu`s or Slanted Door right about now.  Tomorrow is the Farmer`s Market, right?", neutral
+"Whoever u are and wherever u go always remember where u come from", neutral
+"WHY DIDNT I SEE YOU?", neutral
+"hehe indeed it is, I actually nearly changed my bio to just `Don`t Panic` but I wanted to keep in the #freehugs", neutral
+"Twitter criado.", neutral
+"it might be sunny today, but alas, new product must make it to Etsy!", neutral
+"that is awesome!  spent the day studyin, chillin a lil b4 goin to bed, its slowly gettin colder in Paraguay, winter is comin", positive
+"_Bailon talk with your HIPS", neutral
+"I miss the seniors already", negative
+"bout 2 watch a movie nd drink wit martin nd leslie", neutral
+"still no eat. still in office. and now i get sick throat 3 days before i leave for an air condition throat killing tour bus", negative
+"really?! Ur getting rid of it! That`s sad", negative
+"What? But....but...the Nurburgring...  why is it so good? http://tinyurl.com/krcamp", positive
+"I sound really Brummie lol but most of all I just hate looking at myself!", negative
+"_AliceV No  None in the house and I`m not sure i should drive to the coffee stand. It`s worse than I thought it would be.", negative
+"Off to take a math quiz...on a friday....booo", neutral
+"anything  bookmark - keychain - surprise me", positive
+"() Gonna watch JT on SNL tonight - not a fan of his music but think he`s hilarious! `**** in my Pants` - WAY too funny", negative
+"Anyone want my chocolate nutella mochi? Its just gonna go to waste", neutral
+"i live in manchester england but still have never been to london", neutral
+"_DIG up late again I see?  You missed a great time at Donny`s birthday... remember to call him on Monday!", neutral
+"may the 4th be with you! HAPPY STAR WARS DAY!", positive
+"****...Ive gotten so much packed up already lmao, well little **** anyway. Either way, I have a good start", neutral
+"angry, sad, happy, excited, i hate how my moods change  right now i am immensely sad =\\", negative
+"Bom dia! Good Morning! Guten Morgen! I am returning to Twitter!", positive
+"bummer, my phone gets disconnected. on the weekend of my birthday. darn </3", negative
+"Yay! I am not the only Eurovision fan on twitter  #eurovision2009", positive
+"well then close your pretty eyes and count boring sheep  you`ll be sleeping in no time", neutral
+"why do i think i have to take medicine cuz i was laughing to hard?. my head should not be in this much pain. i thought laughter was gud", neutral
+"Today I wrote two songs (one for temple which I will probably never perform ever) and one for mothers day. Happy vesak everyone  rena xoxo", positive
+"maybe someday. i lova ya, friends!! my computer sucks  listening to coldplay<3 tomorrow meet my bbff", neutral
+"It`s called communifuckingcation.....learn it, know it, do it. These stupid **** people!", negative
+"Makes me wish I had dogs instead of cats!", negative
+"_ai_08  Yeah hopefully but if not then maybe  i can save up and get it for christmas .. we will find out", positive
+"just woke up still in bed  sundays r the ****, its the do nothing day of the week", neutral
+"- I think  did an amazing presentation about the whole 'keeping review items' and tax thing at BlogHer `08  She`s awesome!", positive
+"me and Arlando are totally done. I havn`e talked to him in a LONG time!Now I just have to find a `worth while` man...", neutral
+"HELLO friend!! Welcome to Twitter!!", positive
+"Eating pringles at nearly 1 AM really reminds me  of touring with the Jonas Brothers (don`t ask).......I miss that so much....", negative
+"i don`t like being sick when the guidance counsellor is supposed to take me + 35 other kids out of school for bowling & pizza", negative
+"Forced to eat red hotdogs coz I`m starving and there`s nothing else for breakfast. Ick.", negative
+"Played D&D on the bank holiday - was nice, got many XP  And killed a blob. Actually, two, though the 2nd had tentacles.", positive
+"traveling alone makes i meet new people,new circle ..strangers become friends", positive
+"Then you might enjoy this one too  http://tinyurl.com/ygcp3f", positive
+"_x Hey 'Cameron', I know it was amazing and I have sunburn too  So my mum isn`t happy,, . & my throat kills . . Still <3 it", neutral
+"Just got home from another amazing night", positive
+"_x when my brother is 18, i will have moved!", neutral
+"I`m uploading some videos to youtube, will give link once I get more loaded. Variety from my daily life, not amazing but fun to watch", neutral
+"Eww town fair tire smells horrible. Its making me sick", negative
+"W4M: No clever headline, Sorry  (Salt Lake City) 29yr http://tinyurl.com/mpoghc", negative
+"Happy Mother`s Day :] I lovee you mami", positive
+"fire and rain by james taylor fits the style i need for my SA audition perfectly, but i can`t find a karaoke track in a high enough key", negative
+"excited how the jon does will do today  Good luck guys ;)", positive
+"Ouch!!... Stomachace.... I ate a lot...", negative
+"no I was too slow  I hate getting the trailhead then not getting in.", negative
+"gutted i miss that! the one night i try 2 leave early  lol! friends visitin were tired haha!", negative
+"Oh dear  #bgt", neutral
+"made a new youtube background in photoshop!  http://bit.ly/AWwzn thanks to", positive
+"wish i can be with her every day", neutral
+"must be time to go home - yes indeedy", neutral
+"Where is Teng?", neutral
+"hey! chutti was very tiring.. and have to travel again tomo  how was your Friday?", negative
+"http://twitpic.com/2aa0m - So this is where you`re getting the $$$ for the island", neutral
+"Well yeah, the hormone things basically a given  thought he had misbehaved specifically to upset your mom and you.", negative
+"grr...everytime he gets a new girlfriend..I`m at the bottom of the totem pole", negative
+"_ oh i read that", neutral
+"It`s simple for those who know how to use it hahaa, i`m glad you`re okay  **** x", positive
+"_Cat  we all know and yes dont remind me im so effin jealous  **** aust some times", negative
+"Yeah same", neutral
+"Doesn`t have to go to work tomorrow! Good times! Revision though", positive
+"super bored on a friday night", negative
+"feels very very sick  hmph.", negative
+"@ 102.7 KIIS-FM hey, I can`t seems to get ryan`s show online, what`s not right then?", neutral
+"I worked more today than I did yesterday, but my time card says that I worked the same....  oh well... Hello weekend!", neutral
+"My guitar ain`t herew yet?, feel like i lost a limb!.", negative
+"not having a good day..one bad thing after another", negative
+"had a horrible sleep + in a rather bad mood", negative
+"it`s pretty cold outside  today i got another exam...", neutral
+"when in doubt go with the instincts.", neutral
+"Cavs has the easier route than Denver.", positive
+"Good afternoon all. Sorted technical glitch. A rainy BH monday so a lazy day, then daughters and their menfolk round for a roast dinner", positive
+"Running errands with my little man. Maybe he won`t act like a 3 year old today.", neutral
+"http://twitpic.com/4jg09 - looks exactly like I do when I get that GH guitar in my hand", neutral
+"why nobody write with me ? !", neutral
+"Why am I posting so late? Just got back from seeing Star Trek. It was so awesome", positive
+"Off to school so tired didnt hear the 10 texts i had last night lol !! Still tired but i love Jesus Christ", neutral
+"im gettin off nd watch a movie nd have a couple of drinks nd shots   ill try 2 get get back on if i can", neutral
+"in IT-lesson at school and eating salad", neutral
+"just answered you- never learned how to write in French- just basic stuff-", negative
+"Epic ocd moment? I deleted my sims file that i spent hours building just because i set his favorite food wrong", negative
+"I`m a genius  put rug in washing machine, left folding door half open, machine moved now door won`t close or open. shaking head.", neutral
+"WHAT THAT`S NOT FAIR I CAN`T VOTE IT SAYS THE VOTING IS CLOSED  BUT I DID VOTE EVERYDAY WHEN I COULD VOTE LIKE 20X`S", negative
+"Just got back from 5km run!  It was really good!", positive
+"I dunno man. How bout some wendy`s?? mmmmmm we dont gots that in H-town", neutral
+"I ran outta bathroom passes.  maybe mrs. French will be nice today?", neutral
+"i hate the fact that it is so nice outsidee, and im inside doing revisionn", neutral
+"Ugh my neck really hurts  I`m out aquatards, xox", negative
+"your knowledge of X-men is starting to scare me", negative
+"I am watchinggg the new video of  Its sooo good  Addicted!", positive
+"god it pisses me off that i always enter comps & never win.I am such a sore loser", negative
+"_ I had curry shrimp yesterday lol I love seafood", positive
+"me too except move that 7am to 9am", neutral
+"Hellooooooo... Whats the scene people !!!", negative
+"tee we beefin....what was u supposed to do before leavin????", neutral
+"You people haVe no idea how depressing it is being at a steakhouse and not being able to eat", negative
+"Got a Saturdays framed signed foto last night  and a Valentino rossi 1 aswell  eee what a night", positive
+"Good Morning  Jess here  Just wanted to say thank you to everyone following us  tell your friends about us please  ****", positive
+"thinking about new.. oh yes .. btw bankroll stays at $14.88.. so down a bit from yesterday.. and I won`t whine about bad beats  ..", positive
+"ahhh, i FINALLY went to yogurtland.  i saved my spoon. hahaha.", neutral
+"....any  sorry wahh!! lub u toooo ;)", neutral
+"cupcake!!  you can call me anything but 'bitch' i suppose..and even then under certain circumstances....", negative
+"They burnt my zuccini", negative
+"Oh no!  I hope you find your kitten", positive
+"madd bored", negative
+"Puzzled by people`s mood swings... it makes me somewhat sad that I can`t pinpoint  how  they feel", negative
+": Where did you get a copy? I wanna watch that also.", neutral
+"_weber I wrote a leadership essay abt its founder. The expansion didn`t went well, tried to break in America. Lots of money burned.", negative
+"Doh. In a rush to get to the Puma Open and I just got pulled over. So sad.", negative
+"Is relaxing in bed for a while before I go to sleep. It was nice to get out of my house for a while tonight", positive
+"that is truly impressive. Can`t come close to that. Takes the argument over whether web needs subs to a new level though", positive
+"You charmer   Do you like football too?", neutral
+"Thank you Jon!  That`s very sweet.", positive
+"_  i missed you. today was the greatest day ever. im burnt and **** lmfao. but it will be a nice tan. 11 rides in 6 hrs!  <3", neutral
+"perhaps she will start including #magic in all of her tweets now too. BTW... you didn`t write #magic in ur tweet to me.", neutral
+"I FEEL LIKE ****......", negative
+"I`m so sorry  do you want me to call? If not I will be on aim in a couple of hours if you need to vent", negative
+"ya and i would have gained a few kgs by then.  what are you working on today?", neutral
+"My head`s THUMPING.", negative
+"can`t wait to crack it open and no doubt will learn from it as well as support my evangelizing cubicle-freedom-ness!", positive
+"last night in cork  and come tomorrow i wont even remember it... double sad face  haha... in the words on lily allen.. NOT FAIR!", negative
+": Lol it went okay! As far as I can tell . But then I had to do a test today for geo and I was all zoned out and got like 65%", positive
+"it makes me want to cry when 2 grown men discuss characters on All My Children.", negative
+"About to go eat breakfast at jay jays cafe with my one and only", neutral
+"fml. i stepped on a needle.. ouch.. waaaaa  **** drycleaners", negative
+"Well rite i gt a headache", negative
+"is wondering what actually to do, when I have a week to do **** all bar pack, most peeps r leavin too", negative
+"Waking up .....working....Happy as can be!  Its gonna be a great day today... I can see it..and im not sore from Running yesterday!!!", positive
+"Just broke her dresser shes had since she was three", negative
+"Headaches suck, especially stress related ones. I used to get those a lot.  <3", neutral
+"I really like Lady GaGa`s 'Paparazzi'...  #whatshappening", positive
+"getting my new cellphone on wednesday! the LG Voyager! its soo sweet! i can`t wait that long though", positive
+"chili cheese fries a bad idea for lunch..", negative
+"you`re absolutely welcome.  i love you too and am happy i was able to help make that moment happen.", positive
+"you`re not gonna paint me? oh well  ;)", neutral
+"just joined Twitter...     Hiya world!", neutral
+"Indeed I did get your song however am unable to listen.", neutral
+"Decided not to go...I want to see my sweetie  But I can`t.", negative
+"feeling better, still coughing. : / not moving on yet. its impossible.", neutral
+"Really big spider on the floor two metres away from me  am actually a little scared.", negative
+"tell your grandmother i say hello", neutral
+"_hunter Ah now Comedy Central have Frasier all morning till twelve. So I guess there goes my morning", neutral
+"feels slightly better but **** i sure do miss him.....he`s going to be so hard to get over......  i messed it up ...donuts=comfort", neutral
+"I need to get some shut eye... But I just can`t let`s try 1 more time. Ta Ta Twitterworld", neutral
+"DANG...when did they plant those thorny bushes there? OUCH...no kitty hugs today", neutral
+"Nanay cried after reading the card I gave her. Hugged her and next thing I knew, I was crying, too! Haha We`re such cry babies. Love her.", neutral
+"can`t wait for Daughtry`s new album! Ack. Two more months!!!", positive
+"Doing my FF later, too busy making up plans for today. Beshie   is gonna be in DC June 5-6 for a bball game.", negative
+"have you seen 'The Fifth Element'? makes 'super green' a lot funnier", positive
+"Like double posting on twitter?  ;)  lol.  Not me, I don`t take anything.", neutral
+"my friday feels boring too. no time for fun today and not so much in the mood for it either", negative
+"excuse me ...theres me!!!  jkidding lol...so how long b4 yr fun night out starts lol", positive
+"fair enough. actually, you dont have to give me x-men.  mad max will do me fine", positive
+"Monday...Funday!  Wake up people...and keep me awake please   Today is going to be a long one..I can already feel it. Eww", negative
+"dont depress me  I have the mother-in-law staying the weekend. Someone else to wait on other than the kids!", negative
+"girl you stay inviting me but not doing a follow-up hahaha... no phone call to check up on me", negative
+"-- No fair, I want a sticker but I just moved away from London", negative
+"starting off my day with a little Northern Light", neutral
+"Too tired", negative
+"Soooooooooo glad to learn that Farrells ice cream parlor is staging a comeback in So. Cal -- too bad it`s in the Mission Viejo mall", neutral
+"loll , of course me tooo  & i love their new song toooo ?", positive
+"There was no traffic at all on my way home and all traffic lights were green.Im afraidIowe karma a big check", positive
+"homework...boring", negative
+"was doing a hard copy doc review,while writing comments realized `ve forgotten writing i.e. on paper,can hardly recognize or read it back", negative
+"Y is it when I luv someone I fear them? i just wish someone can exsplain it 2 me", neutral
+"Morning everyone! Hope you have a great Sunday!!", positive
+"Looks like my Twitter is down", negative
+"A beautiful song for anyone that could use a pick me up tonight  ? http://blip.fm/~5ynxo", positive
+"_PrintChick exactly! Thats the first time i saw his @ reply to Jon. Never going there again. Oh have fun with d new phone.", positive
+"_rey Nah you do it really gradually with PTFE tape. so goes up 0.1 mm at a time. Ive been doing it for years, I love it!  x", positive
+"_honey thank you  i have a business exam tomorrow too :/", positive
+"at least its legal , here in kuwait if u weren`t driving SUV then u will get a ticket with big smile", neutral
+"....yup stil at work", neutral
+"Oh I love `em, but when I think about the kind of preservatives they`re using to stay 'just-baked' it kinda makes me sick", neutral
+"My dad`s drunk off his ****. Today was successful.", positive
+"**** marriage isn`t legal everywhere here.", negative
+"IM SORRRYY  i went to the cinema with my broth.. cause im cool.. and yeah im sorrrry  TOMORROW THO, ILL MAKE SURE OF IT", neutral
+"Nope!  She can travel all she wants when SHE can pay for it.", neutral
+"Good morning David! Happy Mother`s Day to your mom lol. Too bad u can`t be with her. She is so awesome!", neutral
+"My sunglasses broke", neutral
+"is up with a nasty cough i cant be sick i have a huge weekend ahead of me", negative
+"Really enjoyed Star Trek - great movie, amazing special effects. Definately recommend even if your not a Trekky", positive
+"those photos are lovely! Who knew you were as talented a photographer as you are a journalist!", positive
+": So wonderful to spend Mother`s Day with my mum.", positive
+"The 'Catch Me If You Can' DVD that I rented from Blockbuster.com yesterday was cracked. Figured it out about 35 minutes into the movie.", positive
+"have a lovely weekend", positive
+"who what?  call me", neutral
+"**** no dublin", negative
+"So jealous im not at asylum right now", negative
+"just giving shouts to all my peoples in Twitterville", neutral
+"Pwnd from all sides", neutral
+"today is maintenance day for me, my flat and my blog...yeahhhh a lot of little works", neutral
+"#NHL Not a fan of either team, my head says Detroit, my feet say the Pens my heart doesn`t care   GO KINGS in 2009/2010", neutral
+"you have been busy, have a lovely time", positive
+"Having a great chat with a friend. He`s totally putting my mind at ease", positive
+"I`ve had that 'problem' too, being charmed fast, I mean. I`ll cross my fingers for you", negative
+"It`s this year. Can`t catch it, won`t be in NY till Oct 2010.   http://bit.ly/AF8JT", neutral
+"Oh sure . Thx", positive
+"I can`t comment directly to someone...... and I`m here all alone", neutral
+"Is responding to an email.", neutral
+"i don`t even know what sporting social enterprise means....", neutral
+"you were great. just awesome. i was crying cuz i wanted to be there so bad", neutral
+"Right on! Pull up a chair and welcome", positive
+"Romantic evening in with papa murphys and 'battle BC' from the history channel", positive
+"do you really smoke???", neutral
+"Bloody sunburned", negative
+"yeah, big chill here too good foods, good music, great weather!  have a cool day Bro!", positive
+"awwww... I`m sorry! I changed the picture... just for you! Because you rock like that!", neutral
+"ohhh that cant be very fun    but hell you manned it up!!   looks like you got some **** done today!!", negative
+"not gonna ask what a boom boom is!  morning.", neutral
+"don`t forget to follow emma from london =  like you said you would! I wish you aswered my calls  it cost me ï¿½14", positive
+"**** i`m gonna miss the grand prix.I`m going to have to try and sneak back to the room", negative
+"so close to tennessee", neutral
+"Yeaup. I was gonna tell ya that", neutral
+"trying to wake up, but is finding it very hard", negative
+"you need to play something from Mary Poppins at them, everyone knows that`s how rooms get tidy", neutral
+"Omg i just seen the sun and the moon in the same place  this disproves my theory that they are the same person", negative
+"Europe sounds gr8! Will finish my exam on Teus and then we`ll  talk about it", positive
+"Oh, my God..... The end of the first course))) don`t believe in it) but, yeh, so many exams  La-la-la// everything is wonderful!!!!!!!!!!", positive
+"im sick and sad its cold", negative
+"shut up.", negative
+"guess Ill drive it back nine hours", neutral
+"you`re in harlem? where? im so jealous right now! i miss living in nyc!", negative
+"- I`m not letting Reach sink. Thats for sure. I`m still presenting and joint HON! Owens Mon 8pm-10pm & I`m Sat 2pm-4pm", neutral
+"Wishes she had a pool", positive
+"#test SEO SMO marketing  try it", neutral
+"**** another day at the office, the sun is bursting from the sky...and the women are eh well...back to the keyboard", neutral
+"rushing to sitter to pick up my 103F-fevered preschooler", neutral
+"you didn`t give out #followfriday advice like i told you?", neutral
+"awake sadly        seeing Leon today !", negative
+"uqh soo boredd supposedd to be asleep cuzz i have too wakke upp earlyy but i juss cantt sleepp.! omq tomorroww iss mother`s dayy", negative
+"awesome. Wha`dya get her?", positive
+"Should have gone to bed ages ago, **** you tedtalks!  Gotta get up early too", negative
+"Had a totally chilled out day relaxing in the garden in the lovely weather. Shame I have to go to work tomorrow", neutral
+"Well I hope you have had a good weekend and even more so have a good day at work 2moro its already monday here,so far so good", positive
+"Good for you Rachel.  I have nowt", positive
+"bananabrain2 got hit by a car and got screwed! : O, 32 oepn wounds, a broken finger, broken toe (both toe and nail) f**ed up", negative
+"I already miss my Mohawk.", negative
+"only got 22.90 in tips last night.. (N) but he earned bulk money anywho", neutral
+"We bought a pool instead of going to California. Now the pool is broken and we have wasted our vacation money for the next 2-3 years.", negative
+"Listening to Lady Gaga... Relatives just left after our Mother`s Day celebration", neutral
+"Cleaning + finding stuff to sell. I`m so poor.", negative
+"OMG I just spit my drink out! RIP hair straightener!!", negative
+"Thank you so much  Me neitherrrr!", positive
+"Ahh! normally I would jump at that but i`m manning the office solo today", neutral
+"mmm but nothing i can do. lucky ive got great friends like u to cheer me up", positive
+"wats up with the racism in australia? Its not nice", negative
+"[Aeroplanes - We Know, Plato!] One of my favorite WKP songs!  ? http://blip.fm/~5jq91", positive
+"feeling better - did nothing yesterday but lay around.   hate i missed the youth leader polar bear swim   gotta love youth!", neutral
+"painting", neutral
+"oh nos, what happened", neutral
+"Getting ready to launch the podcast of chapter 1 of 'Turning Left at Albuquerque' this morning. I know you`re excited - so am I!", positive
+"It`s so hard to keep up with everything! There`s the whole coldplaying, twitter, facebook and not to talk about real life... Impossible.", negative
+"About to clock into work", neutral
+"now we are also on twitter  follow us to know the latest!", neutral
+"I kno I kknow ... sigh... been on. but it sux", negative
+"Mr Tweet I think", neutral
+"i`ve become one of those pathetic girls that feel lonely without their boyfriends hahaha i miss josey already!!", negative
+"This is for nicole ï¿½ Its raining, make sure you bring an umbrellaï¿½ See its not about the pack train I`m on today", neutral
+"haha, sorry, it`s past my bedtime", negative
+"Texas Chainsaw Massacre: The Next Generation. Tis nothing, but pure insanity. Can I have the title of Queen of watching bad horror films?", neutral
+"I definitely missed listening to The Spill Canvas, I miss seeing them live as well  'Now I`m in stitches ooooover you and oooover you, oh'", negative
+"had a great weekend in Stuttgart at the befah-conference. Wonderful people, nice discussions and lots of fun. Together we`re strong!", positive
+"who goes bowling anymore?... me and my friends", neutral
+"I`m just following you because we`re both wearing Converse", neutral
+"hun are you okay? I see alot of your posts your exercising like mad,not eating or sleeping", negative
+"its brokey", neutral
+"had a fun time at the concert!  almost got a picture with Taylor Momsen, freakin next in line then she left!", positive
+"hm i`m happy but i want to join drama practice today !", positive
+"finally synced iPod", neutral
+"if you register now, you`ll be able to buy in pre-presale next year. Saturday`s gonna be mayhem on internet, wake up early girl", neutral
+"no.1 dont really mean anything to me anymore :L it did when good old top of the pops was on every sat or friday or something", negative
+"im home!  videoke at Funtime.. yey! got loads of tickets! nyahahaha!", neutral
+"Nothing like waking up slow in the morning. Docs appt today.", neutral
+"Tanya is jealous because I`m Mike`s new favorite  It`s because he tried to kiss me over the weekend....pictures to follow at 95sx.com", neutral
+"I`m slightly disturbed by Hollyoaks tonight.  I really don`t think it`s something that should have been shown at 6.30pm...", negative
+"Sad that when fitness center reopens will not have our Zumba class anymore.  Just found out today on our last class before closure.", negative
+"ï¿½ï¿½h. iï¿½m gonna go in the 'big' house now, borrow my sis guitar and play and maybe write", neutral
+"Morning.. Coffee and fresh air", positive
+"oh, is it good? I`ve been wanting to watch that movie but nooobody would watch it w/me", negative
+"Sleeeeeeeepy.... I`m off... Goodnight twitterverse!", neutral
+"go into an anti-gravity chamber then you can tell gravity to suck it.", neutral
+"off to friendss for theree birthdayy.  X", neutral
+"http://twitpic.com/4we51 - summer is here.", neutral
+"demi, just say hi to me and it`s enough. just replay to me please  love you so much!!!", positive
+"Boo Im lonely and bored", negative
+"It hurts to breathe again.. Why?", negative
+"Off to the Dream World to battle the evil Spork Horde.  Later, folks.", neutral
+"waaaaayyyyy too hot for that", negative
+".... So I always get left out", negative
+"again, surely the uploading could wait until you got home?  I`m all about enjoying the party when you can.", positive
+"might start Spanish...any min now....nope just can`t do it! ****", neutral
+"yeah exactly the fans overpower the haters anyday u know wat do wat u wnt i dnt even care anymore i know the truth about them", negative
+"talkshow with Larry, then Cage?", neutral
+"****... Why does it take so long to install SBS2008?!", negative
+"Have to go to work  typical sunshine and deep sleep; stupid friday.", negative
+"_Uh_Knee", neutral
+"I saw a squirrel get hit by a car while walking to bart this morning...wondering if there was anything I could have done.", neutral
+"just got my first lesson in when rain meets my white  shirt   if one more man tells me they like my bra on more time! smh", neutral
+"At tempe marketplace waiting to see Star Trek.", neutral
+"all you have to do is have your boyfriend say something for me so i can hear his accent.", neutral
+"95 degrees and a crappy a/c", negative
+"Stuck on NJ Transit for the past twenty minutes. Great way to start the week", neutral
+"Playing 'The Simpsons Game' for Nitentdo DS Light *_*", neutral
